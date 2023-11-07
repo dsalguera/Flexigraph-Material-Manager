@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Clientes>
+  <Cliente>
+    <Nombre>Douglas</Nombre>
+    <Cédula>1</Cédula>
+    <Descripción>1</Descripción>
+    <Monto>1</Monto>
+    <Archivo>juhuyhuh</Archivo>
+    <Correo>1</Correo>
+    <Fecha>16/12/2018</Fecha>
+    <Hora>08:59:42 PM</Hora>
+  </Cliente>
+  <Cliente>
+    <Nombre>David</Nombre>
+    <Cédula>1</Cédula>
+    <Descripción>1</Descripción>
+    <Monto>
+    </Monto>
+    <Archivo>1</Archivo>
+    <Correo>1</Correo>
+    <Fecha>1/1/2019</Fecha>
+    <Hora>04:19:39 PM</Hora>
+  </Cliente>
+</Clientes>

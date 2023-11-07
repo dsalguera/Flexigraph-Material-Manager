@@ -1,0 +1,4157 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ListaEgreso>
+  <ListaEgreso fecha="31/12/2019">
+    <Egresos />
+  </ListaEgreso>
+  <ListaEgreso fecha="02/01/2020">
+    <Egresos />
+  </ListaEgreso>
+  <ListaEgreso fecha="03/01/2020">
+    <Egresos>
+      <Lista>
+        <Monto>2500</Monto>
+        <Descripcion>Comida Oscar Li -&gt; Hora: 22:39:40</Descripcion>
+      </Lista>
+      <Lista>
+        <Monto>12000</Monto>
+        <Descripcion>Pago David Salguera -&gt; Hora: 22:39:48</Descripcion>
+      </Lista>
+      <Lista>
+        <Monto>13000</Monto>
+        <Descripcion>Pago Nathaly Bosgraaf -&gt; Hora: 22:40:03</Descripcion>
+      </Lista>
+    </Egresos>
+  </ListaEgreso>
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso fecha="10/01/2020">
+    <Egresos />
+  </ListaEgreso>
+  <ListaEgreso fecha="11/01/2020">
+    <Egresos />
+  </ListaEgreso>
+  <ListaEgreso fecha="13/01/2020">
+    <Egresos />
+  </ListaEgreso>
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso fecha="14/01/2020">
+    <Egresos />
+  </ListaEgreso>
+  <ListaEgreso />
+  <ListaEgreso fecha="20/01/2020">
+    <Egresos />
+  </ListaEgreso>
+  <ListaEgreso />
+  <ListaEgreso fecha="22/01/2020">
+    <Egresos />
+  </ListaEgreso>
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso fecha="18/02/2020">
+    <Egresos />
+  </ListaEgreso>
+  <ListaEgreso />
+  <ListaEgreso fecha="19/02/2020">
+    <Egresos />
+  </ListaEgreso>
+  <ListaEgreso fecha="20/02/2020">
+    <Egresos>
+      <Lista>
+        <Monto>2000</Monto>
+        <Descripcion>jorge -&gt; Hora: 06:33:53</Descripcion>
+      </Lista>
+    </Egresos>
+  </ListaEgreso>
+  <ListaEgreso fecha="01/03/2020">
+    <Egresos />
+  </ListaEgreso>
+  <ListaEgreso fecha="12/03/2020">
+    <Egresos />
+  </ListaEgreso>
+  <ListaEgreso fecha="16/03/2020">
+    <Egresos />
+  </ListaEgreso>
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso fecha="17/03/2020">
+    <Egresos />
+  </ListaEgreso>
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso fecha="21/03/2020">
+    <Egresos />
+  </ListaEgreso>
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso fecha="22/03/2020">
+    <Egresos>
+      <Lista>
+        <Monto>5000</Monto>
+        <Descripcion>almuerzo -&gt; Hora: 22:25:03</Descripcion>
+      </Lista>
+      <Lista>
+        <Monto>10000</Monto>
+        <Descripcion>compras -&gt; Hora: 22:26:25</Descripcion>
+      </Lista>
+    </Egresos>
+  </ListaEgreso>
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso fecha="23/03/2020">
+    <Egresos>
+      <Lista>
+        <Monto>9000</Monto>
+        <Descripcion>agua -&gt; Hora: 13:19:02</Descripcion>
+      </Lista>
+      <Lista>
+        <Monto>10000</Monto>
+        <Descripcion>almuerzo -&gt; Hora: 14:06:02</Descripcion>
+      </Lista>
+      <Lista>
+        <Monto>3600</Monto>
+        <Descripcion>vuelto almuerzo -&gt; Hora: 14:52:08</Descripcion>
+      </Lista>
+    </Egresos>
+  </ListaEgreso>
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso fecha="24/03/2020">
+    <Egresos />
+  </ListaEgreso>
+  <ListaEgreso />
+  <ListaEgreso fecha="25/03/2020">
+    <Egresos />
+  </ListaEgreso>
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso fecha="26/03/2020">
+    <Egresos />
+  </ListaEgreso>
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso fecha="27/03/2020">
+    <Egresos>
+      <Lista>
+        <Monto>4300</Monto>
+        <Descripcion>comida -&gt; Hora: 12:19:31</Descripcion>
+      </Lista>
+      <Lista>
+        <Monto>6500</Monto>
+        <Descripcion>jabon arcodec -&gt; Hora: 18:19:09</Descripcion>
+      </Lista>
+    </Egresos>
+  </ListaEgreso>
+  <ListaEgreso />
+  <ListaEgreso fecha="28/03/2020">
+    <Egresos />
+  </ListaEgreso>
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso fecha="30/03/2020">
+    <Egresos />
+  </ListaEgreso>
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso fecha="31/03/2020">
+    <Egresos>
+      <Lista>
+        <Monto>10000</Monto>
+        <Descripcion>Jorge -&gt; Hora: 19:29:55</Descripcion>
+      </Lista>
+    </Egresos>
+  </ListaEgreso>
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso fecha="01/04/2020">
+    <Egresos>
+      <Lista>
+        <Monto>8000</Monto>
+        <Descripcion>jorge -&gt; Hora: 18:10:10</Descripcion>
+      </Lista>
+      <Lista>
+        <Monto>10000</Monto>
+        <Descripcion>nathy -&gt; Hora: 18:10:24</Descripcion>
+      </Lista>
+    </Egresos>
+  </ListaEgreso>
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso fecha="02/04/2020">
+    <Egresos>
+      <Lista>
+        <Monto>5000</Monto>
+        <Descripcion>jorge -&gt; Hora: 15:12:07</Descripcion>
+      </Lista>
+    </Egresos>
+  </ListaEgreso>
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso fecha="03/04/2020">
+    <Egresos>
+      <Lista>
+        <Monto>25000</Monto>
+        <Descripcion>jess -&gt; Hora: 10:32:40</Descripcion>
+      </Lista>
+    </Egresos>
+  </ListaEgreso>
+  <ListaEgreso fecha="06/04/2020">
+    <Egresos />
+  </ListaEgreso>
+  <ListaEgreso />
+  <ListaEgreso fecha="08/04/2020">
+    <Egresos />
+  </ListaEgreso>
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso fecha="13/04/2020">
+    <Egresos />
+  </ListaEgreso>
+  <ListaEgreso />
+  <ListaEgreso fecha="14/04/2020">
+    <Egresos />
+  </ListaEgreso>
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso fecha="15/04/2020">
+    <Egresos />
+  </ListaEgreso>
+  <ListaEgreso />
+  <ListaEgreso fecha="16/04/2020">
+    <Egresos />
+  </ListaEgreso>
+  <ListaEgreso fecha="17/04/2020">
+    <Egresos />
+  </ListaEgreso>
+  <ListaEgreso fecha="18/04/2020">
+    <Egresos />
+  </ListaEgreso>
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso fecha="19/04/2020">
+    <Egresos />
+  </ListaEgreso>
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso fecha="20/04/2020">
+    <Egresos />
+  </ListaEgreso>
+  <ListaEgreso />
+  <ListaEgreso fecha="01/12/2019">
+    <Egresos />
+  </ListaEgreso>
+  <ListaEgreso fecha="22/04/2020">
+    <Egresos />
+  </ListaEgreso>
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso fecha="23/04/2020">
+    <Egresos />
+  </ListaEgreso>
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso fecha="24/04/2020">
+    <Egresos>
+      <Lista>
+        <Monto>2800</Monto>
+        <Descripcion>COMIDA -&gt; Hora: 14:36:21</Descripcion>
+      </Lista>
+    </Egresos>
+  </ListaEgreso>
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso fecha="25/04/2020">
+    <Egresos />
+  </ListaEgreso>
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso fecha="27/04/2020">
+    <Egresos />
+  </ListaEgreso>
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso fecha="28/04/2020">
+    <Egresos>
+      <Lista>
+        <Monto>1150</Monto>
+        <Descripcion>tempisque -&gt; Hora: 10:18:27</Descripcion>
+      </Lista>
+    </Egresos>
+  </ListaEgreso>
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso fecha="29/04/2020">
+    <Egresos />
+  </ListaEgreso>
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso fecha="02/05/2020">
+    <Egresos />
+  </ListaEgreso>
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso fecha="04/05/2020">
+    <Egresos>
+      <Lista>
+        <Monto>19500</Monto>
+        <Descripcion>nathy -&gt; Hora: 18:57:31</Descripcion>
+      </Lista>
+      <Lista>
+        <Monto>2310</Monto>
+        <Descripcion>fresco -&gt; Hora: 19:07:21</Descripcion>
+      </Lista>
+      <Lista>
+        <Monto>5000</Monto>
+        <Descripcion>2 spray -&gt; Hora: 19:09:59</Descripcion>
+      </Lista>
+    </Egresos>
+  </ListaEgreso>
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso fecha="05/05/2020">
+    <Egresos />
+  </ListaEgreso>
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso fecha="07/05/2020">
+    <Egresos />
+  </ListaEgreso>
+  <ListaEgreso />
+  <ListaEgreso fecha="08/05/2020">
+    <Egresos>
+      <Lista>
+        <Monto>25000</Monto>
+        <Descripcion>jessenia -&gt; Hora: 17:05:15</Descripcion>
+      </Lista>
+    </Egresos>
+  </ListaEgreso>
+  <ListaEgreso fecha="09/05/2020">
+    <Egresos />
+  </ListaEgreso>
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso fecha="11/05/2020">
+    <Egresos>
+      <Lista>
+        <Monto>2500</Monto>
+        <Descripcion>comida -&gt; Hora: 14:04:39</Descripcion>
+      </Lista>
+      <Lista>
+        <Monto>4000</Monto>
+        <Descripcion>deisy -&gt; Hora: 15:06:29</Descripcion>
+      </Lista>
+    </Egresos>
+  </ListaEgreso>
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso fecha="12/05/2020">
+    <Egresos>
+      <Lista>
+        <Monto>5000</Monto>
+        <Descripcion>comida -&gt; Hora: 14:36:27</Descripcion>
+      </Lista>
+      <Lista>
+        <Monto>10000</Monto>
+        <Descripcion>Oscar  -&gt; Hora: 15:15:28</Descripcion>
+      </Lista>
+    </Egresos>
+  </ListaEgreso>
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso fecha="13/05/2020">
+    <Egresos />
+  </ListaEgreso>
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso fecha="14/05/2020">
+    <Egresos>
+      <Lista>
+        <Monto>10000</Monto>
+        <Descripcion>nathy le devolvi lo prestado -&gt; Hora: 13:29:50</Descripcion>
+      </Lista>
+      <Lista>
+        <Monto>9600</Monto>
+        <Descripcion>vareria -&gt; Hora: 19:27:31</Descripcion>
+      </Lista>
+      <Lista>
+        <Monto>13000</Monto>
+        <Descripcion>nathy -&gt; Hora: 19:27:41</Descripcion>
+      </Lista>
+    </Egresos>
+  </ListaEgreso>
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso fecha="15/05/2020">
+    <Egresos>
+      <Lista>
+        <Monto>9600</Monto>
+        <Descripcion>valeria -&gt; Hora: 18:15:03</Descripcion>
+      </Lista>
+      <Lista>
+        <Monto>13000</Monto>
+        <Descripcion>nathy -&gt; Hora: 18:15:15</Descripcion>
+      </Lista>
+    </Egresos>
+  </ListaEgreso>
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso fecha="18/05/2020">
+    <Egresos />
+  </ListaEgreso>
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso fecha="19/05/2020">
+    <Egresos>
+      <Lista>
+        <Monto>2500</Monto>
+        <Descripcion>almuerzo -&gt; Hora: 16:14:40</Descripcion>
+      </Lista>
+    </Egresos>
+  </ListaEgreso>
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso fecha="20/05/2020">
+    <Egresos>
+      <Lista>
+        <Monto>4975</Monto>
+        <Descripcion>medicina -&gt; Hora: 13:05:09</Descripcion>
+      </Lista>
+      <Lista>
+        <Monto>2500</Monto>
+        <Descripcion>comida -&gt; Hora: 14:42:41</Descripcion>
+      </Lista>
+      <Lista>
+        <Monto>10000</Monto>
+        <Descripcion>VALERIA -&gt; Hora: 20:31:07</Descripcion>
+      </Lista>
+      <Lista>
+        <Monto>14000</Monto>
+        <Descripcion>NATHY -&gt; Hora: 20:31:00</Descripcion>
+      </Lista>
+    </Egresos>
+  </ListaEgreso>
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso fecha="21/05/2020">
+    <Egresos>
+      <Lista>
+        <Monto>6000</Monto>
+        <Descripcion>JESENIA PAGO -&gt; Hora: 16:24:52</Descripcion>
+      </Lista>
+      <Lista>
+        <Monto>9600</Monto>
+        <Descripcion>valeria -&gt; Hora: 18:16:51</Descripcion>
+      </Lista>
+      <Lista>
+        <Monto>12000</Monto>
+        <Descripcion>nathy -&gt; Hora: 18:17:05</Descripcion>
+      </Lista>
+      <Lista>
+        <Monto>2500</Monto>
+        <Descripcion>comida -&gt; Hora: 18:17:51</Descripcion>
+      </Lista>
+    </Egresos>
+  </ListaEgreso>
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso fecha="22/05/2020">
+    <Egresos />
+  </ListaEgreso>
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso fecha="25/05/2020">
+    <Egresos>
+      <Lista>
+        <Monto>2500</Monto>
+        <Descripcion>almuerzo -&gt; Hora: 13:30:25</Descripcion>
+      </Lista>
+    </Egresos>
+  </ListaEgreso>
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso fecha="26/05/2020">
+    <Egresos>
+      <Lista>
+        <Monto>17170</Monto>
+        <Descripcion>temisque -&gt; Hora: 12:55:50</Descripcion>
+      </Lista>
+      <Lista>
+        <Monto>2500</Monto>
+        <Descripcion>almuerzo -&gt; Hora: 17:12:56</Descripcion>
+      </Lista>
+    </Egresos>
+  </ListaEgreso>
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso fecha="27/05/2020">
+    <Egresos />
+  </ListaEgreso>
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso fecha="28/05/2020">
+    <Egresos />
+  </ListaEgreso>
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso fecha="29/05/2020">
+    <Egresos>
+      <Lista>
+        <Monto>26000</Monto>
+        <Descripcion>nathy -&gt; Hora: 20:12:07</Descripcion>
+      </Lista>
+      <Lista>
+        <Monto>2500</Monto>
+        <Descripcion>almuerzo -&gt; Hora: 20:12:23</Descripcion>
+      </Lista>
+    </Egresos>
+  </ListaEgreso>
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso fecha="01/06/2020">
+    <Egresos>
+      <Lista>
+        <Monto>6500</Monto>
+        <Descripcion>aguacate -&gt; Hora: 17:11:31</Descripcion>
+      </Lista>
+      <Lista>
+        <Monto>9600</Monto>
+        <Descripcion>valeria -&gt; Hora: 19:24:11</Descripcion>
+      </Lista>
+      <Lista>
+        <Monto>13000</Monto>
+        <Descripcion>nathy -&gt; Hora: 19:24:25</Descripcion>
+      </Lista>
+    </Egresos>
+  </ListaEgreso>
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso fecha="02/06/2020">
+    <Egresos>
+      <Lista>
+        <Monto>5000</Monto>
+        <Descripcion>prestado Naty -&gt; Hora: 12:52:16</Descripcion>
+      </Lista>
+      <Lista>
+        <Monto>6000</Monto>
+        <Descripcion>Jessenia -&gt; Hora: 12:52:41</Descripcion>
+      </Lista>
+      <Lista>
+        <Monto>10000</Monto>
+        <Descripcion>valeria -&gt; Hora: 19:05:58</Descripcion>
+      </Lista>
+      <Lista>
+        <Monto>9000</Monto>
+        <Descripcion>jordi -&gt; Hora: 19:06:08</Descripcion>
+      </Lista>
+      <Lista>
+        <Monto>8000</Monto>
+        <Descripcion>naty -&gt; Hora: 19:06:17</Descripcion>
+      </Lista>
+    </Egresos>
+  </ListaEgreso>
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso fecha="03/06/2020">
+    <Egresos />
+  </ListaEgreso>
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso fecha="04/06/2020">
+    <Egresos>
+      <Lista>
+        <Monto>1800</Monto>
+        <Descripcion>tempisque -&gt; Hora: 11:10:48</Descripcion>
+      </Lista>
+      <Lista>
+        <Monto>2000</Monto>
+        <Descripcion>para caretas -&gt; Hora: 17:39:01</Descripcion>
+      </Lista>
+      <Lista>
+        <Monto>2630</Monto>
+        <Descripcion>comida -&gt; Hora: 18:12:39</Descripcion>
+      </Lista>
+      <Lista>
+        <Monto>9600</Monto>
+        <Descripcion>jordi -&gt; Hora: 18:48:14</Descripcion>
+      </Lista>
+      <Lista>
+        <Monto>9000</Monto>
+        <Descripcion>vale -&gt; Hora: 18:48:31</Descripcion>
+      </Lista>
+    </Egresos>
+  </ListaEgreso>
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso fecha="05/06/2020">
+    <Egresos>
+      <Lista>
+        <Monto>1500</Monto>
+        <Descripcion>gastos -&gt; Hora: 10:46:18</Descripcion>
+      </Lista>
+      <Lista>
+        <Monto>1800</Monto>
+        <Descripcion>tempisque -&gt; Hora: 11:36:12</Descripcion>
+      </Lista>
+      <Lista>
+        <Monto>11000</Monto>
+        <Descripcion>jess -&gt; Hora: 18:25:59</Descripcion>
+      </Lista>
+      <Lista>
+        <Monto>14000</Monto>
+        <Descripcion>nathy b -&gt; Hora: 18:30:07</Descripcion>
+      </Lista>
+      <Lista>
+        <Monto>75000</Monto>
+        <Descripcion>salguera -&gt; Hora: 18:30:50</Descripcion>
+      </Lista>
+    </Egresos>
+  </ListaEgreso>
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso fecha="06/06/2020">
+    <Egresos />
+  </ListaEgreso>
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso fecha="03/07/2020">
+    <Egresos>
+      <Lista>
+        <Monto>600</Monto>
+        <Descripcion>LIJA  -&gt; Hora: 13:38:43</Descripcion>
+      </Lista>
+      <Lista>
+        <Monto>1037</Monto>
+        <Descripcion>ARANDELAS OLANA -&gt; Hora: 14:52:46</Descripcion>
+      </Lista>
+      <Lista>
+        <Monto>2500</Monto>
+        <Descripcion>comida oscar</Descripcion>
+      </Lista>
+    </Egresos>
+  </ListaEgreso>
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso fecha="04/07/2020">
+    <Egresos />
+  </ListaEgreso>
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso fecha="06/07/2020">
+    <Egresos>
+      <Lista>
+        <Monto>2500</Monto>
+        <Descripcion>ALMUERZO -&gt; Hora: 15:07:42</Descripcion>
+      </Lista>
+      <Lista>
+        <Monto>4000</Monto>
+        <Descripcion>deisy -&gt; Hora: 19:18:27</Descripcion>
+      </Lista>
+      <Lista>
+        <Monto>9600</Monto>
+        <Descripcion>antony -&gt; Hora: 19:18:37</Descripcion>
+      </Lista>
+      <Lista>
+        <Monto>9600</Monto>
+        <Descripcion>jordy -&gt; Hora: 19:18:49</Descripcion>
+      </Lista>
+      <Lista>
+        <Monto>10000</Monto>
+        <Descripcion>vale -&gt; Hora: 19:18:58 -&gt; Hora: 19:19:25</Descripcion>
+      </Lista>
+      <Lista>
+        <Monto>9600</Monto>
+        <Descripcion>nana -&gt; Hora: 19:19:15</Descripcion>
+      </Lista>
+    </Egresos>
+  </ListaEgreso>
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso fecha="07/07/2020">
+    <Egresos>
+      <Lista>
+        <Monto>5000</Monto>
+        <Descripcion>pastillas -&gt; Hora: 18:24:16</Descripcion>
+      </Lista>
+      <Lista>
+        <Monto>2500</Monto>
+        <Descripcion>almuerzo -&gt; Hora: 18:24:25</Descripcion>
+      </Lista>
+      <Lista>
+        <Monto>9600</Monto>
+        <Descripcion>nana -&gt; Hora: 18:38:09</Descripcion>
+      </Lista>
+      <Lista>
+        <Monto>9600</Monto>
+        <Descripcion>JORDY -&gt; Hora: 18:38:22</Descripcion>
+      </Lista>
+      <Lista>
+        <Monto>9600</Monto>
+        <Descripcion>ANTONI -&gt; Hora: 18:38:36</Descripcion>
+      </Lista>
+      <Lista>
+        <Monto>13000</Monto>
+        <Descripcion>NATY -&gt; Hora: 18:38:44</Descripcion>
+      </Lista>
+      <Lista>
+        <Monto>10000</Monto>
+        <Descripcion>VALERIA -&gt; Hora: 18:38:54</Descripcion>
+      </Lista>
+    </Egresos>
+  </ListaEgreso>
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso fecha="08/07/2020">
+    <Egresos>
+      <Lista>
+        <Monto>3600</Monto>
+        <Descripcion>tempisque -&gt; Hora: 12:17:05</Descripcion>
+      </Lista>
+      <Lista>
+        <Monto>9600</Monto>
+        <Descripcion>vale -&gt; Hora: 18:53:07</Descripcion>
+      </Lista>
+      <Lista>
+        <Monto>9600</Monto>
+        <Descripcion>jordi -&gt; Hora: 18:53:17</Descripcion>
+      </Lista>
+      <Lista>
+        <Monto>9600</Monto>
+        <Descripcion>nana -&gt; Hora: 18:53:24</Descripcion>
+      </Lista>
+      <Lista>
+        <Monto>9600</Monto>
+        <Descripcion>antony -&gt; Hora: 18:53:34</Descripcion>
+      </Lista>
+      <Lista>
+        <Monto>13000</Monto>
+        <Descripcion>naty -&gt; Hora: 18:55:28</Descripcion>
+      </Lista>
+    </Egresos>
+  </ListaEgreso>
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso fecha="09/07/2020">
+    <Egresos />
+  </ListaEgreso>
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso fecha="11/07/2020">
+    <Egresos />
+  </ListaEgreso>
+  <ListaEgreso fecha="10/07/2020">
+    <Egresos>
+      <Lista>
+        <Monto>25000</Monto>
+        <Descripcion>Jessenia -&gt; Hora: 16:08:44</Descripcion>
+      </Lista>
+    </Egresos>
+  </ListaEgreso>
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso fecha="12/07/2020">
+    <Egresos>
+      <Lista>
+        <Monto>2500</Monto>
+        <Descripcion>comida -&gt; Hora: 13:48:55</Descripcion>
+      </Lista>
+      <Lista>
+        <Monto>4225</Monto>
+        <Descripcion>jabon -&gt; Hora: 18:42:34</Descripcion>
+      </Lista>
+    </Egresos>
+  </ListaEgreso>
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso fecha="13/07/2020">
+    <Egresos>
+      <Lista>
+        <Monto>2500</Monto>
+        <Descripcion>leche de cabra -&gt; Hora: 11:02:32</Descripcion>
+      </Lista>
+      <Lista>
+        <Monto>4550</Monto>
+        <Descripcion>farmacia -&gt; Hora: 15:18:28</Descripcion>
+      </Lista>
+      <Lista>
+        <Monto>2500</Monto>
+        <Descripcion>almuerzo -&gt; Hora: 15:18:37</Descripcion>
+      </Lista>
+      <Lista>
+        <Monto>28250</Monto>
+        <Descripcion>welfran -&gt; Hora: 17:07:48</Descripcion>
+      </Lista>
+      <Lista>
+        <Monto>2390</Monto>
+        <Descripcion>COMPRAS -&gt; Hora: 17:35:37 -&gt; Hora: 18:52:03</Descripcion>
+      </Lista>
+    </Egresos>
+  </ListaEgreso>
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso fecha="14/07/2020">
+    <Egresos>
+      <Lista>
+        <Monto>9600</Monto>
+        <Descripcion>Nathalia -&gt; Hora: 18:53:47</Descripcion>
+      </Lista>
+      <Lista>
+        <Monto>9600</Monto>
+        <Descripcion>jordi -&gt; Hora: 18:53:56</Descripcion>
+      </Lista>
+      <Lista>
+        <Monto>9600</Monto>
+        <Descripcion>saldo nathalia -&gt; Hora: 18:54:11</Descripcion>
+      </Lista>
+    </Egresos>
+  </ListaEgreso>
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso fecha="16/07/2020">
+    <Egresos>
+      <Lista>
+        <Monto>1800</Monto>
+        <Descripcion>pan lacto crema -&gt; Hora: 10:40:28</Descripcion>
+      </Lista>
+      <Lista>
+        <Monto>9600</Monto>
+        <Descripcion>antony -&gt; Hora: 19:52:24</Descripcion>
+      </Lista>
+      <Lista>
+        <Monto>9600</Monto>
+        <Descripcion>jordy -&gt; Hora: 19:52:31</Descripcion>
+      </Lista>
+      <Lista>
+        <Monto>13000</Monto>
+        <Descripcion>Nathaly -&gt; Hora: 19:52:42</Descripcion>
+      </Lista>
+    </Egresos>
+  </ListaEgreso>
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso fecha="15/07/2020">
+    <Egresos>
+      <Lista>
+        <Monto>2000</Monto>
+        <Descripcion>paulino -&gt; Hora: 10:36:34</Descripcion>
+      </Lista>
+      <Lista>
+        <Monto>1110</Monto>
+        <Descripcion>pan matequilla -&gt; Hora: 13:14:40</Descripcion>
+      </Lista>
+      <Lista>
+        <Monto>2540</Monto>
+        <Descripcion>leche en polvo -&gt; Hora: 13:14:51</Descripcion>
+      </Lista>
+      <Lista>
+        <Monto>4800</Monto>
+        <Descripcion>listerine -&gt; Hora: 13:15:00</Descripcion>
+      </Lista>
+      <Lista>
+        <Monto>2500</Monto>
+        <Descripcion>COMIDA -&gt; Hora: 15:01:07</Descripcion>
+      </Lista>
+      <Lista>
+        <Monto>9600</Monto>
+        <Descripcion>jordi -&gt; Hora: 18:45:11</Descripcion>
+      </Lista>
+      <Lista>
+        <Monto>9600</Monto>
+        <Descripcion>antoni -&gt; Hora: 18:45:17</Descripcion>
+      </Lista>
+      <Lista>
+        <Monto>29000</Monto>
+        <Descripcion>nathaly -&gt; Hora: 19:00:07</Descripcion>
+      </Lista>
+    </Egresos>
+  </ListaEgreso>
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso fecha="18/07/2020">
+    <Egresos />
+  </ListaEgreso>
+  <ListaEgreso />
+  <ListaEgreso fecha="17/07/2020">
+    <Egresos>
+      <Lista>
+        <Monto>9600</Monto>
+        <Descripcion>jordy -&gt; Hora: 19:25:55</Descripcion>
+      </Lista>
+      <Lista>
+        <Monto>9600</Monto>
+        <Descripcion>antoni -&gt; Hora: 19:26:03</Descripcion>
+      </Lista>
+    </Egresos>
+  </ListaEgreso>
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso fecha="20/07/2020">
+    <Egresos>
+      <Lista>
+        <Monto>2500</Monto>
+        <Descripcion>almuerzo -&gt; Hora: 21:54:49</Descripcion>
+      </Lista>
+      <Lista>
+        <Monto>9600</Monto>
+        <Descripcion>Jordi -&gt; Hora: 21:54:58</Descripcion>
+      </Lista>
+      <Lista>
+        <Monto>9600</Monto>
+        <Descripcion>antoni -&gt; Hora: 21:55:11</Descripcion>
+      </Lista>
+      <Lista>
+        <Monto>26000</Monto>
+        <Descripcion>nathaly -&gt; Hora: 21:55:42</Descripcion>
+      </Lista>
+    </Egresos>
+  </ListaEgreso>
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso fecha="21/07/2020">
+    <Egresos>
+      <Lista>
+        <Monto>2500</Monto>
+        <Descripcion>comida -&gt; Hora: 13:37:47</Descripcion>
+      </Lista>
+      <Lista>
+        <Monto>8452</Monto>
+        <Descripcion>2 tubos -&gt; Hora: 13:42:18</Descripcion>
+      </Lista>
+    </Egresos>
+  </ListaEgreso>
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso fecha="22/07/2020">
+    <Egresos>
+      <Lista>
+        <Monto>2500</Monto>
+        <Descripcion>ALMUERZO -&gt; Hora: 19:55:17</Descripcion>
+      </Lista>
+      <Lista>
+        <Monto>9600</Monto>
+        <Descripcion>JORDY -&gt; Hora: 19:55:26</Descripcion>
+      </Lista>
+      <Lista>
+        <Monto>9600</Monto>
+        <Descripcion>ANTYONY -&gt; Hora: 19:56:26</Descripcion>
+      </Lista>
+    </Egresos>
+  </ListaEgreso>
+  <ListaEgreso fecha="23/07/2020">
+    <Egresos />
+  </ListaEgreso>
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso fecha="24/07/2020">
+    <Egresos>
+      <Lista>
+        <Monto>2500</Monto>
+        <Descripcion>comida -&gt; Hora: 13:11:15</Descripcion>
+      </Lista>
+      <Lista>
+        <Monto>9600</Monto>
+        <Descripcion>jordy -&gt; Hora: 18:55:21</Descripcion>
+      </Lista>
+      <Lista>
+        <Monto>9600</Monto>
+        <Descripcion>antony -&gt; Hora: 18:55:43</Descripcion>
+      </Lista>
+      <Lista>
+        <Monto>8400</Monto>
+        <Descripcion>nana -&gt; Hora: 18:55:51 -&gt; Hora: 19:56:28</Descripcion>
+      </Lista>
+    </Egresos>
+  </ListaEgreso>
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso fecha="25/07/2020">
+    <Egresos />
+  </ListaEgreso>
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso fecha="27/07/2020">
+    <Egresos />
+  </ListaEgreso>
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso fecha="28/07/2020">
+    <Egresos>
+      <Lista>
+        <Monto>20000</Monto>
+        <Descripcion>Zapata Adelanto Rotulo Luminozo -&gt; Hora: 15:04:28 -&gt; Hora: 22:27:00</Descripcion>
+      </Lista>
+      <Lista>
+        <Monto>25000</Monto>
+        <Descripcion>chilo repuesto aire acondicionado -&gt; Hora: 15:04:55 -&gt; Hora: 22:27:17</Descripcion>
+      </Lista>
+      <Lista>
+        <Monto>9600</Monto>
+        <Descripcion>natna -&gt; Hora: 19:36:12</Descripcion>
+      </Lista>
+      <Lista>
+        <Monto>9600</Monto>
+        <Descripcion>jordy -&gt; Hora: 19:36:19</Descripcion>
+      </Lista>
+      <Lista>
+        <Monto>9600</Monto>
+        <Descripcion>antoni -&gt; Hora: 19:36:27</Descripcion>
+      </Lista>
+      <Lista>
+        <Monto>2500</Monto>
+        <Descripcion>comida -&gt; Hora: 19:37:19</Descripcion>
+      </Lista>
+    </Egresos>
+  </ListaEgreso>
+  <ListaEgreso fecha="29/07/2020">
+    <Egresos />
+  </ListaEgreso>
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso fecha="30/07/2020">
+    <Egresos>
+      <Lista>
+        <Monto>5000</Monto>
+        <Descripcion>zapata luminozo -&gt; Hora: 16:24:37</Descripcion>
+      </Lista>
+      <Lista>
+        <Monto>10000</Monto>
+        <Descripcion>CHANCES -&gt; Hora: 16:25:21</Descripcion>
+      </Lista>
+      <Lista>
+        <Monto>2100</Monto>
+        <Descripcion>PIZZA -&gt; Hora: 16:34:11</Descripcion>
+      </Lista>
+      <Lista>
+        <Monto>7200</Monto>
+        <Descripcion>NANA -&gt; Hora: 21:49:58</Descripcion>
+      </Lista>
+      <Lista>
+        <Monto>13000</Monto>
+        <Descripcion>NATA -&gt; Hora: 21:50:14</Descripcion>
+      </Lista>
+      <Lista>
+        <Monto>9600</Monto>
+        <Descripcion>ANTONI -&gt; Hora: 21:50:23</Descripcion>
+      </Lista>
+    </Egresos>
+  </ListaEgreso>
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso fecha="31/07/2020">
+    <Egresos />
+  </ListaEgreso>
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso fecha="03/08/2020">
+    <Egresos />
+  </ListaEgreso>
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso fecha="04/08/2020">
+    <Egresos>
+      <Lista>
+        <Monto>1000</Monto>
+        <Descripcion>MOTO ESPRESS -&gt; Hora: 14:04:42</Descripcion>
+      </Lista>
+      <Lista>
+        <Monto>2500</Monto>
+        <Descripcion>COMIDA -&gt; Hora: 14:04:50</Descripcion>
+      </Lista>
+      <Lista>
+        <Monto>25000</Monto>
+        <Descripcion>Jessenia contabilidad -&gt; Hora: 19:27:20</Descripcion>
+      </Lista>
+      <Lista>
+        <Monto>13000</Monto>
+        <Descripcion>Nathy -&gt; Hora: 19:28:17</Descripcion>
+      </Lista>
+      <Lista>
+        <Monto>10000</Monto>
+        <Descripcion>nana -&gt; Hora: 19:58:08</Descripcion>
+      </Lista>
+    </Egresos>
+  </ListaEgreso>
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso fecha="05/08/2020">
+    <Egresos />
+  </ListaEgreso>
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso fecha="06/08/2020">
+    <Egresos />
+  </ListaEgreso>
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso fecha="07/08/2020">
+    <Egresos>
+      <Lista>
+        <Monto>20000</Monto>
+        <Descripcion>Seguridad secao -&gt; Hora: 21:14:07</Descripcion>
+      </Lista>
+      <Lista>
+        <Monto>10000</Monto>
+        <Descripcion>nana -&gt; Hora: 21:14:15</Descripcion>
+      </Lista>
+      <Lista>
+        <Monto>13000</Monto>
+        <Descripcion>nathy -&gt; Hora: 21:14:24</Descripcion>
+      </Lista>
+      <Lista>
+        <Monto>4200</Monto>
+        <Descripcion>Pizza -&gt; Hora: 21:20:23</Descripcion>
+      </Lista>
+    </Egresos>
+  </ListaEgreso>
+  <ListaEgreso />
+  <ListaEgreso fecha="08/08/2020">
+    <Egresos />
+  </ListaEgreso>
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso fecha="10/08/2020">
+    <Egresos />
+  </ListaEgreso>
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso fecha="11/08/2020">
+    <Egresos />
+  </ListaEgreso>
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso fecha="12/08/2020">
+    <Egresos>
+      <Lista>
+        <Monto>2000</Monto>
+        <Descripcion>CAMISA -&gt; Hora: 13:44:50</Descripcion>
+      </Lista>
+      <Lista>
+        <Monto>5000</Monto>
+        <Descripcion>almuerzo -&gt; Hora: 14:27:15</Descripcion>
+      </Lista>
+      <Lista>
+        <Monto>10000</Monto>
+        <Descripcion>nani -&gt; Hora: 19:39:57</Descripcion>
+      </Lista>
+      <Lista>
+        <Monto>13000</Monto>
+        <Descripcion>nathy -&gt; Hora: 19:40:05</Descripcion>
+      </Lista>
+      <Lista>
+        <Monto>10000</Monto>
+        <Descripcion>jordy -&gt; Hora: 19:40:12</Descripcion>
+      </Lista>
+    </Egresos>
+  </ListaEgreso>
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso fecha="13/08/2020">
+    <Egresos>
+      <Lista>
+        <Monto>13000</Monto>
+        <Descripcion>nathy -&gt; Hora: 19:05:40</Descripcion>
+      </Lista>
+      <Lista>
+        <Monto>13000</Monto>
+        <Descripcion>nathy -&gt; Hora: 19:05:48</Descripcion>
+      </Lista>
+      <Lista>
+        <Monto>10000</Monto>
+        <Descripcion>jordy -&gt; Hora: 19:06:08</Descripcion>
+      </Lista>
+      <Lista>
+        <Monto>10000</Monto>
+        <Descripcion>jordy -&gt; Hora: 19:06:16</Descripcion>
+      </Lista>
+      <Lista>
+        <Monto>10000</Monto>
+        <Descripcion>nana -&gt; Hora: 19:06:23</Descripcion>
+      </Lista>
+      <Lista>
+        <Monto>10000</Monto>
+        <Descripcion>nana -&gt; Hora: 19:06:33</Descripcion>
+      </Lista>
+    </Egresos>
+  </ListaEgreso>
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso fecha="14/08/2020">
+    <Egresos>
+      <Lista>
+        <Monto>900</Monto>
+        <Descripcion>por 3 -&gt; Hora: 19:17:46</Descripcion>
+      </Lista>
+      <Lista>
+        <Monto>11375</Monto>
+        <Descripcion>nathy -&gt; Hora: 19:18:37</Descripcion>
+      </Lista>
+      <Lista>
+        <Monto>8800</Monto>
+        <Descripcion>jordi -&gt; Hora: 19:20:17</Descripcion>
+      </Lista>
+      <Lista>
+        <Monto>8800</Monto>
+        <Descripcion>nana -&gt; Hora: 19:20:25</Descripcion>
+      </Lista>
+      <Lista>
+        <Monto>8800</Monto>
+        <Descripcion>antoni -&gt; Hora: 19:20:31</Descripcion>
+      </Lista>
+    </Egresos>
+  </ListaEgreso>
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso fecha="15/08/2020">
+    <Egresos />
+  </ListaEgreso>
+  <ListaEgreso />
+  <ListaEgreso fecha="16/08/2020">
+    <Egresos />
+  </ListaEgreso>
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso fecha="17/08/2020">
+    <Egresos>
+      <Lista>
+        <Monto>2500</Monto>
+        <Descripcion>ALMUERZO -&gt; Hora: 18:32:01</Descripcion>
+      </Lista>
+      <Lista>
+        <Monto>1110</Monto>
+        <Descripcion>PAN -&gt; Hora: 18:34:51</Descripcion>
+      </Lista>
+    </Egresos>
+  </ListaEgreso>
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso fecha="18/08/2020">
+    <Egresos>
+      <Lista>
+        <Monto>10000</Monto>
+        <Descripcion>nana -&gt; Hora: 18:50:09</Descripcion>
+      </Lista>
+      <Lista>
+        <Monto>13000</Monto>
+        <Descripcion>Nathy -&gt; Hora: 18:50:17</Descripcion>
+      </Lista>
+      <Lista>
+        <Monto>10000</Monto>
+        <Descripcion>jordy -&gt; Hora: 18:50:26</Descripcion>
+      </Lista>
+    </Egresos>
+  </ListaEgreso>
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso fecha="19/08/2020">
+    <Egresos />
+  </ListaEgreso>
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso fecha="20/08/2020">
+    <Egresos>
+      <Lista>
+        <Monto>1230</Monto>
+        <Descripcion>pan -&gt; Hora: 13:47:53</Descripcion>
+      </Lista>
+      <Lista>
+        <Monto>2500</Monto>
+        <Descripcion>almuerzo -&gt; Hora: 14:29:33</Descripcion>
+      </Lista>
+      <Lista>
+        <Monto>13000</Monto>
+        <Descripcion>Nathy -&gt; Hora: 18:31:03</Descripcion>
+      </Lista>
+    </Egresos>
+  </ListaEgreso>
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso fecha="21/08/2020">
+    <Egresos>
+      <Lista>
+        <Monto>15820</Monto>
+        <Descripcion>tempisque pvc -&gt; Hora: 11:57:03</Descripcion>
+      </Lista>
+    </Egresos>
+  </ListaEgreso>
+  <ListaEgreso />
+  <ListaEgreso fecha="22/08/2020">
+    <Egresos />
+  </ListaEgreso>
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso fecha="23/08/2020">
+    <Egresos />
+  </ListaEgreso>
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso fecha="24/08/2020">
+    <Egresos>
+      <Lista>
+        <Monto>13000</Monto>
+        <Descripcion>nathy -&gt; Hora: 19:55:05</Descripcion>
+      </Lista>
+      <Lista>
+        <Monto>10000</Monto>
+        <Descripcion>nana -&gt; Hora: 19:55:13</Descripcion>
+      </Lista>
+      <Lista>
+        <Monto>4000</Monto>
+        <Descripcion>daysi -&gt; Hora: 19:56:05</Descripcion>
+      </Lista>
+    </Egresos>
+  </ListaEgreso>
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso fecha="25/08/2020">
+    <Egresos>
+      <Lista>
+        <Monto>10000</Monto>
+        <Descripcion>nana -&gt; Hora: 18:42:36</Descripcion>
+      </Lista>
+      <Lista>
+        <Monto>10000</Monto>
+        <Descripcion>jordi -&gt; Hora: 18:42:44</Descripcion>
+      </Lista>
+      <Lista>
+        <Monto>13000</Monto>
+        <Descripcion>nathy -&gt; Hora: 18:42:57</Descripcion>
+      </Lista>
+    </Egresos>
+  </ListaEgreso>
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso fecha="26/08/2020">
+    <Egresos />
+  </ListaEgreso>
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso fecha="27/08/2020">
+    <Egresos>
+      <Lista>
+        <Monto>13000</Monto>
+        <Descripcion>boss -&gt; Hora: 19:43:43</Descripcion>
+      </Lista>
+      <Lista>
+        <Monto>10000</Monto>
+        <Descripcion>nana -&gt; Hora: 19:43:57</Descripcion>
+      </Lista>
+      <Lista>
+        <Monto>10000</Monto>
+        <Descripcion>jordy -&gt; Hora: 19:44:07</Descripcion>
+      </Lista>
+    </Egresos>
+  </ListaEgreso>
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso fecha="28/08/2020">
+    <Egresos>
+      <Lista>
+        <Monto>2300</Monto>
+        <Descripcion>tempisque -&gt; Hora: 11:19:57</Descripcion>
+      </Lista>
+      <Lista>
+        <Monto>2500</Monto>
+        <Descripcion>almuerzo -&gt; Hora: 18:25:09</Descripcion>
+      </Lista>
+    </Egresos>
+  </ListaEgreso>
+  <ListaEgreso fecha="29/08/2020">
+    <Egresos />
+  </ListaEgreso>
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso fecha="31/08/2020">
+    <Egresos />
+  </ListaEgreso>
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso fecha="01/09/2020">
+    <Egresos />
+  </ListaEgreso>
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso fecha="02/09/2020">
+    <Egresos />
+  </ListaEgreso>
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso fecha="03/09/2020">
+    <Egresos>
+      <Lista>
+        <Monto>2300</Monto>
+        <Descripcion>tempisque -&gt; Hora: 11:28:43</Descripcion>
+      </Lista>
+    </Egresos>
+  </ListaEgreso>
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso fecha="04/09/2020">
+    <Egresos />
+  </ListaEgreso>
+  <ListaEgreso />
+  <ListaEgreso fecha="05/09/2020">
+    <Egresos />
+  </ListaEgreso>
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso fecha="07/09/2020">
+    <Egresos>
+      <Lista>
+        <Monto>2500</Monto>
+        <Descripcion>almuerzo -&gt; Hora: 13:22:19</Descripcion>
+      </Lista>
+    </Egresos>
+  </ListaEgreso>
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso fecha="08/09/2020">
+    <Egresos>
+      <Lista>
+        <Monto>10000</Monto>
+        <Descripcion>estructuras burras -&gt; Hora: 18:01:56</Descripcion>
+      </Lista>
+    </Egresos>
+  </ListaEgreso>
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso fecha="09/09/2020">
+    <Egresos>
+      <Lista>
+        <Monto>4015</Monto>
+        <Descripcion>comida -&gt; Hora: 12:29:30</Descripcion>
+      </Lista>
+    </Egresos>
+  </ListaEgreso>
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso fecha="10/09/2020">
+    <Egresos>
+      <Lista>
+        <Monto>1800</Monto>
+        <Descripcion>tempisque -&gt; Hora: 11:16:52</Descripcion>
+      </Lista>
+      <Lista>
+        <Monto>11500</Monto>
+        <Descripcion>farmacia -&gt; Hora: 13:04:40</Descripcion>
+      </Lista>
+      <Lista>
+        <Monto>500</Monto>
+        <Descripcion>HELADO -&gt; Hora: 13:50:40</Descripcion>
+      </Lista>
+      <Lista>
+        <Monto>9000</Monto>
+        <Descripcion>antony -&gt; Hora: 20:11:04</Descripcion>
+      </Lista>
+      <Lista>
+        <Monto>10000</Monto>
+        <Descripcion>jordy -&gt; Hora: 20:11:14</Descripcion>
+      </Lista>
+      <Lista>
+        <Monto>10000</Monto>
+        <Descripcion>nana -&gt; Hora: 20:11:22</Descripcion>
+      </Lista>
+      <Lista>
+        <Monto>13000</Monto>
+        <Descripcion>nathaly -&gt; Hora: 20:11:35</Descripcion>
+      </Lista>
+      <Lista>
+        <Monto>10000</Monto>
+        <Descripcion>yadir -&gt; Hora: 20:11:50</Descripcion>
+      </Lista>
+    </Egresos>
+  </ListaEgreso>
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso fecha="11/09/2020">
+    <Egresos />
+  </ListaEgreso>
+  <ListaEgreso fecha="12/09/2020">
+    <Egresos />
+  </ListaEgreso>
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso fecha="15/09/2020">
+    <Egresos>
+      <Lista>
+        <Monto>12000</Monto>
+        <Descripcion>nathy -&gt; Hora: 18:33:16</Descripcion>
+      </Lista>
+      <Lista>
+        <Monto>5000</Monto>
+        <Descripcion>natha -&gt; Hora: 18:33:28</Descripcion>
+      </Lista>
+      <Lista>
+        <Monto>10000</Monto>
+        <Descripcion>nana -&gt; Hora: 18:33:35</Descripcion>
+      </Lista>
+      <Lista>
+        <Monto>9000</Monto>
+        <Descripcion>jordy -&gt; Hora: 18:33:43</Descripcion>
+      </Lista>
+      <Lista>
+        <Monto>2500</Monto>
+        <Descripcion>comida -&gt; Hora: 18:33:56</Descripcion>
+      </Lista>
+    </Egresos>
+  </ListaEgreso>
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso fecha="16/09/2020">
+    <Egresos />
+  </ListaEgreso>
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso fecha="18/09/2020">
+    <Egresos>
+      <Lista>
+        <Monto>2500</Monto>
+        <Descripcion>almuerzo -&gt; Hora: 12:19:44</Descripcion>
+      </Lista>
+      <Lista>
+        <Monto>10000</Monto>
+        <Descripcion>jordy -&gt; Hora: 20:00:26</Descripcion>
+      </Lista>
+      <Lista>
+        <Monto>13000</Monto>
+        <Descripcion>NATHY -&gt; Hora: 20:00:39</Descripcion>
+      </Lista>
+      <Lista>
+        <Monto>10000</Monto>
+        <Descripcion>NANA -&gt; Hora: 20:00:53</Descripcion>
+      </Lista>
+    </Egresos>
+  </ListaEgreso>
+  <ListaEgreso />
+  <ListaEgreso fecha="17/09/2020">
+    <Egresos>
+      <Lista>
+        <Monto>1250</Monto>
+        <Descripcion>pan y mantequilla -&gt; Hora: 10:43:03</Descripcion>
+      </Lista>
+      <Lista>
+        <Monto>600</Monto>
+        <Descripcion>mascarilla -&gt; Hora: 11:01:05</Descripcion>
+      </Lista>
+      <Lista>
+        <Monto>4425</Monto>
+        <Descripcion>coolam -&gt; Hora: 16:36:44</Descripcion>
+      </Lista>
+      <Lista>
+        <Monto>2100</Monto>
+        <Descripcion>pizza -&gt; Hora: 16:36:58</Descripcion>
+      </Lista>
+      <Lista>
+        <Monto>10000</Monto>
+        <Descripcion>jordy -&gt; Hora: 19:57:36</Descripcion>
+      </Lista>
+      <Lista>
+        <Monto>10000</Monto>
+        <Descripcion>nana -&gt; Hora: 19:57:44</Descripcion>
+      </Lista>
+      <Lista>
+        <Monto>13000</Monto>
+        <Descripcion>nathy -&gt; Hora: 19:57:51</Descripcion>
+      </Lista>
+    </Egresos>
+  </ListaEgreso>
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso fecha="20/09/2020">
+    <Egresos />
+  </ListaEgreso>
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso fecha="19/09/2020">
+    <Egresos />
+  </ListaEgreso>
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso fecha="21/09/2020">
+    <Egresos>
+      <Lista>
+        <Monto>2500</Monto>
+        <Descripcion>comida -&gt; Hora: 17:52:50</Descripcion>
+      </Lista>
+      <Lista>
+        <Monto>10000</Monto>
+        <Descripcion>nathi -&gt; Hora: 17:53:00</Descripcion>
+      </Lista>
+      <Lista>
+        <Monto>10000</Monto>
+        <Descripcion>jordy -&gt; Hora: 17:53:17</Descripcion>
+      </Lista>
+    </Egresos>
+  </ListaEgreso>
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso fecha="22/09/2020">
+    <Egresos />
+  </ListaEgreso>
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso fecha="23/09/2020">
+    <Egresos>
+      <Lista>
+        <Monto>8800</Monto>
+        <Descripcion>jordy -&gt; Hora: 18:32:12</Descripcion>
+      </Lista>
+      <Lista>
+        <Monto>11800</Monto>
+        <Descripcion>nathy -&gt; Hora: 18:32:52</Descripcion>
+      </Lista>
+      <Lista>
+        <Monto>890</Monto>
+        <Descripcion>alcohol -&gt; Hora: 18:34:27</Descripcion>
+      </Lista>
+      <Lista>
+        <Monto>2370</Monto>
+        <Descripcion>cadena -&gt; Hora: 18:35:57</Descripcion>
+      </Lista>
+      <Lista>
+        <Monto>2500</Monto>
+        <Descripcion>almuerzo -&gt; Hora: 18:41:11</Descripcion>
+      </Lista>
+    </Egresos>
+  </ListaEgreso>
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso fecha="24/09/2020">
+    <Egresos>
+      <Lista>
+        <Monto>2500</Monto>
+        <Descripcion>almuerzo -&gt; Hora: 16:14:14</Descripcion>
+      </Lista>
+      <Lista>
+        <Monto>13000</Monto>
+        <Descripcion>nathi -&gt; Hora: 19:49:04</Descripcion>
+      </Lista>
+      <Lista>
+        <Monto>6000</Monto>
+        <Descripcion>natha -&gt; Hora: 19:49:10</Descripcion>
+      </Lista>
+    </Egresos>
+  </ListaEgreso>
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso fecha="25/09/2020">
+    <Egresos />
+  </ListaEgreso>
+  <ListaEgreso />
+  <ListaEgreso fecha="26/09/2020">
+    <Egresos />
+  </ListaEgreso>
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso fecha="28/09/2020">
+    <Egresos>
+      <Lista>
+        <Monto>2500</Monto>
+        <Descripcion>almuerzo -&gt; Hora: 14:08:28</Descripcion>
+      </Lista>
+      <Lista>
+        <Monto>8800</Monto>
+        <Descripcion>jordy -&gt; Hora: 20:14:25</Descripcion>
+      </Lista>
+      <Lista>
+        <Monto>13000</Monto>
+        <Descripcion>nathy -&gt; Hora: 20:14:40</Descripcion>
+      </Lista>
+      <Lista>
+        <Monto>5200</Monto>
+        <Descripcion>natha -&gt; Hora: 20:15:09</Descripcion>
+      </Lista>
+    </Egresos>
+  </ListaEgreso>
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso fecha="29/09/2020">
+    <Egresos>
+      <Lista>
+        <Monto>5000</Monto>
+        <Descripcion>almuerzo -&gt; Hora: 14:46:00</Descripcion>
+      </Lista>
+      <Lista>
+        <Monto>10000</Monto>
+        <Descripcion>jordy -&gt; Hora: 21:06:42</Descripcion>
+      </Lista>
+    </Egresos>
+  </ListaEgreso>
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso fecha="30/09/2020">
+    <Egresos>
+      <Lista>
+        <Monto>5000</Monto>
+        <Descripcion>almuerzo -&gt; Hora: 15:29:40</Descripcion>
+      </Lista>
+      <Lista>
+        <Monto>24375</Monto>
+        <Descripcion>nathy -&gt; Hora: 17:46:30</Descripcion>
+      </Lista>
+      <Lista>
+        <Monto>9000</Monto>
+        <Descripcion>jordy -&gt; Hora: 17:46:38</Descripcion>
+      </Lista>
+    </Egresos>
+  </ListaEgreso>
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso fecha="01/10/2020">
+    <Egresos>
+      <Lista>
+        <Monto>13000</Monto>
+        <Descripcion>nathy -&gt; Hora: 20:01:47</Descripcion>
+      </Lista>
+      <Lista>
+        <Monto>5000</Monto>
+        <Descripcion>natha -&gt; Hora: 20:01:57</Descripcion>
+      </Lista>
+    </Egresos>
+  </ListaEgreso>
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso fecha="02/10/2020">
+    <Egresos>
+      <Lista>
+        <Monto>2500</Monto>
+        <Descripcion>almuerzo -&gt; Hora: 13:24:06</Descripcion>
+      </Lista>
+      <Lista>
+        <Monto>12000</Monto>
+        <Descripcion>nathy -&gt; Hora: 17:19:38</Descripcion>
+      </Lista>
+      <Lista>
+        <Monto>8000</Monto>
+        <Descripcion>jordy -&gt; Hora: 17:19:45</Descripcion>
+      </Lista>
+    </Egresos>
+  </ListaEgreso>
+  <ListaEgreso />
+  <ListaEgreso fecha="03/10/2020">
+    <Egresos />
+  </ListaEgreso>
+  <ListaEgreso />
+  <ListaEgreso fecha="04/10/2020">
+    <Egresos />
+  </ListaEgreso>
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso fecha="05/10/2020">
+    <Egresos>
+      <Lista>
+        <Monto>13000</Monto>
+        <Descripcion>nathy -&gt; Hora: 17:12:17</Descripcion>
+      </Lista>
+      <Lista>
+        <Monto>2500</Monto>
+        <Descripcion>almuerzo -&gt; Hora: 17:12:25</Descripcion>
+      </Lista>
+    </Egresos>
+  </ListaEgreso>
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso fecha="06/10/2020">
+    <Egresos />
+  </ListaEgreso>
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso fecha="07/10/2020">
+    <Egresos />
+  </ListaEgreso>
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso fecha="08/10/2020">
+    <Egresos>
+      <Lista>
+        <Monto>2500</Monto>
+        <Descripcion>almuerzo -&gt; Hora: 15:10:24</Descripcion>
+      </Lista>
+    </Egresos>
+  </ListaEgreso>
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso fecha="09/10/2020">
+    <Egresos>
+      <Lista>
+        <Monto>2500</Monto>
+        <Descripcion>almuerzo -&gt; Hora: 13:33:08</Descripcion>
+      </Lista>
+      <Lista>
+        <Monto>3500</Monto>
+        <Descripcion>zapata -&gt; Hora: 16:42:18</Descripcion>
+      </Lista>
+      <Lista>
+        <Monto>4485</Monto>
+        <Descripcion>galleta aloe -&gt; Hora: 19:09:31</Descripcion>
+      </Lista>
+      <Lista>
+        <Monto>3890</Monto>
+        <Descripcion>colgate -&gt; Hora: 19:09:54 -&gt; Hora: 19:09:59</Descripcion>
+      </Lista>
+      <Lista>
+        <Monto>1500</Monto>
+        <Descripcion>alcohol -&gt; Hora: 19:10:09</Descripcion>
+      </Lista>
+      <Lista>
+        <Monto>2000</Monto>
+        <Descripcion>rossana -&gt; Hora: 19:10:29</Descripcion>
+      </Lista>
+    </Egresos>
+  </ListaEgreso>
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso fecha="10/10/2020">
+    <Egresos>
+      <Lista>
+        <Monto>2500</Monto>
+        <Descripcion>almuerzo -&gt; Hora: 15:08:10</Descripcion>
+      </Lista>
+    </Egresos>
+  </ListaEgreso>
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso fecha="13/10/2020">
+    <Egresos>
+      <Lista>
+        <Monto>3600</Monto>
+        <Descripcion>tempisque -&gt; Hora: 12:35:18</Descripcion>
+      </Lista>
+    </Egresos>
+  </ListaEgreso>
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso fecha="14/10/2020">
+    <Egresos>
+      <Lista>
+        <Monto>2500</Monto>
+        <Descripcion>comida -&gt; Hora: 19:22:04</Descripcion>
+      </Lista>
+      <Lista>
+        <Monto>10000</Monto>
+        <Descripcion>natha -&gt; Hora: 19:22:13</Descripcion>
+      </Lista>
+    </Egresos>
+  </ListaEgreso>
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso fecha="15/10/2020">
+    <Egresos>
+      <Lista>
+        <Monto>2500</Monto>
+        <Descripcion>pan, mantequilla, filtros de cafe -&gt; Hora: 12:19:02</Descripcion>
+      </Lista>
+      <Lista>
+        <Monto>4950</Monto>
+        <Descripcion>azulex -&gt; Hora: 12:19:29</Descripcion>
+      </Lista>
+      <Lista>
+        <Monto>5000</Monto>
+        <Descripcion>Natha -&gt; Hora: 19:54:13</Descripcion>
+      </Lista>
+    </Egresos>
+  </ListaEgreso>
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso fecha="16/10/2020">
+    <Egresos>
+      <Lista>
+        <Monto>1250</Monto>
+        <Descripcion>pan -&gt; Hora: 11:14:19</Descripcion>
+      </Lista>
+      <Lista>
+        <Monto>1600</Monto>
+        <Descripcion>mascarillas -&gt; Hora: 11:14:39</Descripcion>
+      </Lista>
+      <Lista>
+        <Monto>1935</Monto>
+        <Descripcion>galletas -&gt; Hora: 19:05:28</Descripcion>
+      </Lista>
+      <Lista>
+        <Monto>1700</Monto>
+        <Descripcion>refresco -&gt; Hora: 19:06:03</Descripcion>
+      </Lista>
+    </Egresos>
+  </ListaEgreso>
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso fecha="17/10/2020">
+    <Egresos />
+  </ListaEgreso>
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso fecha="19/10/2020">
+    <Egresos />
+  </ListaEgreso>
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso fecha="21/10/2020">
+    <Egresos>
+      <Lista>
+        <Monto>1150</Monto>
+        <Descripcion>tempisque -&gt; Hora: 11:25:46</Descripcion>
+      </Lista>
+      <Lista>
+        <Monto>10000</Monto>
+        <Descripcion>natha -&gt; Hora: 22:37:35</Descripcion>
+      </Lista>
+    </Egresos>
+  </ListaEgreso>
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso fecha="22/10/2020">
+    <Egresos>
+      <Lista>
+        <Monto>2500</Monto>
+        <Descripcion>almuerzo -&gt; Hora: 14:53:36</Descripcion>
+      </Lista>
+      <Lista>
+        <Monto>15000</Monto>
+        <Descripcion>natha -&gt; Hora: 19:14:28</Descripcion>
+      </Lista>
+      <Lista>
+        <Monto>5000</Monto>
+        <Descripcion>antony -&gt; Hora: 19:17:47</Descripcion>
+      </Lista>
+    </Egresos>
+  </ListaEgreso>
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso fecha="23/10/2020">
+    <Egresos>
+      <Lista>
+        <Monto>4000</Monto>
+        <Descripcion>zapata -&gt; Hora: 11:38:45</Descripcion>
+      </Lista>
+      <Lista>
+        <Monto>5400</Monto>
+        <Descripcion>tempisque -&gt; Hora: 12:42:58</Descripcion>
+      </Lista>
+      <Lista>
+        <Monto>20000</Monto>
+        <Descripcion>pago -&gt; Hora: 14:01:37</Descripcion>
+      </Lista>
+      <Lista>
+        <Monto>10000</Monto>
+        <Descripcion>natha -&gt; Hora: 18:32:48</Descripcion>
+      </Lista>
+    </Egresos>
+  </ListaEgreso>
+  <ListaEgreso />
+  <ListaEgreso fecha="24/10/2020">
+    <Egresos />
+  </ListaEgreso>
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso fecha="27/10/2020">
+    <Egresos />
+  </ListaEgreso>
+  <ListaEgreso fecha="26/10/2020">
+    <Egresos>
+      <Lista>
+        <Monto>2500</Monto>
+        <Descripcion>almuerzo -&gt; Hora: 19:24:33</Descripcion>
+      </Lista>
+    </Egresos>
+  </ListaEgreso>
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso fecha="28/10/2020">
+    <Egresos />
+  </ListaEgreso>
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso fecha="29/10/2020">
+    <Egresos>
+      <Lista>
+        <Monto>1150</Monto>
+        <Descripcion>tempisque -&gt; Hora: 11:47:40</Descripcion>
+      </Lista>
+      <Lista>
+        <Monto>2450</Monto>
+        <Descripcion>express y pan -&gt; Hora: 11:47:52</Descripcion>
+      </Lista>
+      <Lista>
+        <Monto>2500</Monto>
+        <Descripcion>almuerzo -&gt; Hora: 16:29:06</Descripcion>
+      </Lista>
+    </Egresos>
+  </ListaEgreso>
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso fecha="30/10/2020">
+    <Egresos>
+      <Lista>
+        <Monto>2500</Monto>
+        <Descripcion>casado -&gt; Hora: 17:48:55</Descripcion>
+      </Lista>
+    </Egresos>
+  </ListaEgreso>
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso fecha="31/10/2020">
+    <Egresos />
+  </ListaEgreso>
+  <ListaEgreso fecha="01/11/2020">
+    <Egresos />
+  </ListaEgreso>
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso fecha="02/11/2020">
+    <Egresos>
+      <Lista>
+        <Monto>10000</Monto>
+        <Descripcion>nana -&gt; Hora: 16:57:54</Descripcion>
+      </Lista>
+      <Lista>
+        <Monto>2500</Monto>
+        <Descripcion>ALMUERZO -&gt; Hora: 20:33:14</Descripcion>
+      </Lista>
+    </Egresos>
+  </ListaEgreso>
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso fecha="03/11/2020">
+    <Egresos>
+      <Lista>
+        <Monto>2500</Monto>
+        <Descripcion>almuerzo -&gt; Hora: 13:50:47</Descripcion>
+      </Lista>
+    </Egresos>
+  </ListaEgreso>
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso fecha="04/11/2020">
+    <Egresos>
+      <Lista>
+        <Monto>2500</Monto>
+        <Descripcion>almuerzo -&gt; Hora: 16:53:44</Descripcion>
+      </Lista>
+    </Egresos>
+  </ListaEgreso>
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso fecha="05/11/2020">
+    <Egresos>
+      <Lista>
+        <Monto>2500</Monto>
+        <Descripcion>ALMUERZO -&gt; Hora: 16:05:11</Descripcion>
+      </Lista>
+      <Lista>
+        <Monto>10000</Monto>
+        <Descripcion>nana -&gt; Hora: 17:06:17</Descripcion>
+      </Lista>
+    </Egresos>
+  </ListaEgreso>
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso fecha="06/11/2020">
+    <Egresos>
+      <Lista>
+        <Monto>2500</Monto>
+        <Descripcion>ALMUERZO -&gt; Hora: 14:50:14</Descripcion>
+      </Lista>
+      <Lista>
+        <Monto>10000</Monto>
+        <Descripcion>NATHALIA -&gt; Hora: 18:17:41</Descripcion>
+      </Lista>
+    </Egresos>
+  </ListaEgreso>
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso fecha="07/11/2020">
+    <Egresos />
+  </ListaEgreso>
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso fecha="08/11/2020">
+    <Egresos />
+  </ListaEgreso>
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso fecha="09/11/2020">
+    <Egresos>
+      <Lista>
+        <Monto>1240</Monto>
+        <Descripcion>baguete -&gt; Hora: 11:35:32</Descripcion>
+      </Lista>
+      <Lista>
+        <Monto>1130</Monto>
+        <Descripcion>cafe -&gt; Hora: 11:35:58 -&gt; Hora: 19:10:10</Descripcion>
+      </Lista>
+      <Lista>
+        <Monto>2500</Monto>
+        <Descripcion>almuerzo -&gt; Hora: 14:28:05</Descripcion>
+      </Lista>
+      <Lista>
+        <Monto>10000</Monto>
+        <Descripcion>nan -&gt; Hora: 17:09:14</Descripcion>
+      </Lista>
+      <Lista>
+        <Monto>13000</Monto>
+        <Descripcion>naty -&gt; Hora: 17:09:22</Descripcion>
+      </Lista>
+    </Egresos>
+  </ListaEgreso>
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso fecha="10/11/2020">
+    <Egresos>
+      <Lista>
+        <Monto>2500</Monto>
+        <Descripcion>almuerzo -&gt; Hora: 17:03:07</Descripcion>
+      </Lista>
+      <Lista>
+        <Monto>4595</Monto>
+        <Descripcion>barras y listerine -&gt; Hora: 17:03:54</Descripcion>
+      </Lista>
+      <Lista>
+        <Monto>1808</Monto>
+        <Descripcion>tempisque -&gt; Hora: 17:04:15</Descripcion>
+      </Lista>
+    </Egresos>
+  </ListaEgreso>
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso fecha="11/11/2020">
+    <Egresos>
+      <Lista>
+        <Monto>2500</Monto>
+        <Descripcion>almuerzo -&gt; Hora: 14:04:59</Descripcion>
+      </Lista>
+    </Egresos>
+  </ListaEgreso>
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso fecha="12/11/2020">
+    <Egresos>
+      <Lista>
+        <Monto>1420</Monto>
+        <Descripcion>pan  -&gt; Hora: 11:19:48</Descripcion>
+      </Lista>
+      <Lista>
+        <Monto>2500</Monto>
+        <Descripcion>almuerzo -&gt; Hora: 13:06:36</Descripcion>
+      </Lista>
+      <Lista>
+        <Monto>13000</Monto>
+        <Descripcion>NATHY -&gt; Hora: 18:35:56</Descripcion>
+      </Lista>
+      <Lista>
+        <Monto>10000</Monto>
+        <Descripcion>NANA -&gt; Hora: 18:36:03</Descripcion>
+      </Lista>
+    </Egresos>
+  </ListaEgreso>
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso fecha="13/11/2020">
+    <Egresos>
+      <Lista>
+        <Monto>2500</Monto>
+        <Descripcion>almuerzo -&gt; Hora: 13:34:48</Descripcion>
+      </Lista>
+      <Lista>
+        <Monto>28250</Monto>
+        <Descripcion>welfran -&gt; Hora: 16:27:34</Descripcion>
+      </Lista>
+      <Lista>
+        <Monto>13000</Monto>
+        <Descripcion>nathi -&gt; Hora: 17:34:22</Descripcion>
+      </Lista>
+      <Lista>
+        <Monto>10000</Monto>
+        <Descripcion>Nathalia -&gt; Hora: 17:34:38</Descripcion>
+      </Lista>
+    </Egresos>
+  </ListaEgreso>
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso fecha="14/11/2020">
+    <Egresos>
+      <Lista>
+        <Monto>3656</Monto>
+        <Descripcion>tempisque -&gt; Hora: 11:46:59</Descripcion>
+      </Lista>
+      <Lista>
+        <Monto>2500</Monto>
+        <Descripcion>almuerzo -&gt; Hora: 13:14:10</Descripcion>
+      </Lista>
+      <Lista>
+        <Monto>13000</Monto>
+        <Descripcion>nATHY -&gt; Hora: 19:28:54</Descripcion>
+      </Lista>
+      <Lista>
+        <Monto>10000</Monto>
+        <Descripcion>Nathalia -&gt; Hora: 19:29:07</Descripcion>
+      </Lista>
+    </Egresos>
+  </ListaEgreso>
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso fecha="16/11/2020">
+    <Egresos>
+      <Lista>
+        <Monto>2000</Monto>
+        <Descripcion>almuerzo -&gt; Hora: 16:09:52</Descripcion>
+      </Lista>
+      <Lista>
+        <Monto>13000</Monto>
+        <Descripcion>nathy -&gt; Hora: 19:19:12</Descripcion>
+      </Lista>
+      <Lista>
+        <Monto>10000</Monto>
+        <Descripcion>nathalia -&gt; Hora: 19:19:19</Descripcion>
+      </Lista>
+    </Egresos>
+  </ListaEgreso>
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso fecha="17/11/2020">
+    <Egresos>
+      <Lista>
+        <Monto>2500</Monto>
+        <Descripcion>tempisque -&gt; Hora: 11:16:59</Descripcion>
+      </Lista>
+      <Lista>
+        <Monto>2000</Monto>
+        <Descripcion>almuerzo -&gt; Hora: 14:54:09</Descripcion>
+      </Lista>
+      <Lista>
+        <Monto>13000</Monto>
+        <Descripcion>nathy -&gt; Hora: 18:43:29</Descripcion>
+      </Lista>
+      <Lista>
+        <Monto>10000</Monto>
+        <Descripcion>nathalia -&gt; Hora: 18:43:38</Descripcion>
+      </Lista>
+    </Egresos>
+  </ListaEgreso>
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso fecha="18/11/2020">
+    <Egresos>
+      <Lista>
+        <Monto>2500</Monto>
+        <Descripcion>almuerzo -&gt; Hora: 13:27:38</Descripcion>
+      </Lista>
+      <Lista>
+        <Monto>4260</Monto>
+        <Descripcion>compras -&gt; Hora: 15:29:25</Descripcion>
+      </Lista>
+      <Lista>
+        <Monto>13000</Monto>
+        <Descripcion>nathy -&gt; Hora: 17:13:16 -&gt; Hora: 17:15:08</Descripcion>
+      </Lista>
+      <Lista>
+        <Monto>10000</Monto>
+        <Descripcion>natha -&gt; Hora: 17:13:59</Descripcion>
+      </Lista>
+    </Egresos>
+  </ListaEgreso>
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso fecha="19/11/2020">
+    <Egresos>
+      <Lista>
+        <Monto>2000</Monto>
+        <Descripcion>almuerzo -&gt; Hora: 16:52:26</Descripcion>
+      </Lista>
+      <Lista>
+        <Monto>10000</Monto>
+        <Descripcion>Jose -&gt; Hora: 17:41:28</Descripcion>
+      </Lista>
+      <Lista>
+        <Monto>10000</Monto>
+        <Descripcion>nathalia -&gt; Hora: 17:41:41</Descripcion>
+      </Lista>
+      <Lista>
+        <Monto>10000</Monto>
+        <Descripcion>nathy -&gt; Hora: 17:42:08 -&gt; Hora: 17:42:25</Descripcion>
+      </Lista>
+    </Egresos>
+  </ListaEgreso>
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso fecha="20/11/2020">
+    <Egresos>
+      <Lista>
+        <Monto>11200</Monto>
+        <Descripcion>JOSE -&gt; Hora: 19:37:55</Descripcion>
+      </Lista>
+      <Lista>
+        <Monto>11200</Monto>
+        <Descripcion>NATHALIA -&gt; Hora: 19:38:04</Descripcion>
+      </Lista>
+      <Lista>
+        <Monto>14000</Monto>
+        <Descripcion>NATHALIA -&gt; Hora: 19:38:42</Descripcion>
+      </Lista>
+    </Egresos>
+  </ListaEgreso>
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso fecha="21/11/2020">
+    <Egresos>
+      <Lista>
+        <Monto>6750</Monto>
+        <Descripcion>tempisque -&gt; Hora: 11:36:22</Descripcion>
+      </Lista>
+      <Lista>
+        <Monto>3700</Monto>
+        <Descripcion>pizza y fresco -&gt; Hora: 14:35:08 -&gt; Hora: 14:37:19 -&gt; Hora: 14:37:29</Descripcion>
+      </Lista>
+      <Lista>
+        <Monto>10000</Monto>
+        <Descripcion>jose -&gt; Hora: 17:30:28</Descripcion>
+      </Lista>
+      <Lista>
+        <Monto>1200</Monto>
+        <Descripcion>jose -&gt; Hora: 17:30:50</Descripcion>
+      </Lista>
+      <Lista>
+        <Monto>10000</Monto>
+        <Descripcion>nana -&gt; Hora: 17:31:06</Descripcion>
+      </Lista>
+      <Lista>
+        <Monto>1200</Monto>
+        <Descripcion>nana -&gt; Hora: 17:31:12</Descripcion>
+      </Lista>
+      <Lista>
+        <Monto>13000</Monto>
+        <Descripcion>nathy -&gt; Hora: 17:31:22</Descripcion>
+      </Lista>
+      <Lista>
+        <Monto>2250</Monto>
+        <Descripcion>nathy -&gt; Hora: 17:31:47</Descripcion>
+      </Lista>
+    </Egresos>
+  </ListaEgreso>
+  <ListaEgreso fecha="22/11/2020">
+    <Egresos />
+  </ListaEgreso>
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso fecha="23/11/2020">
+    <Egresos>
+      <Lista>
+        <Monto>2500</Monto>
+        <Descripcion>almuerzo -&gt; Hora: 12:56:33</Descripcion>
+      </Lista>
+      <Lista>
+        <Monto>13000</Monto>
+        <Descripcion>Nathaly -&gt; Hora: 18:51:07</Descripcion>
+      </Lista>
+      <Lista>
+        <Monto>10000</Monto>
+        <Descripcion>Nathalia -&gt; Hora: 18:51:17 -&gt; Hora: 18:51:29</Descripcion>
+      </Lista>
+      <Lista>
+        <Monto>11200</Monto>
+        <Descripcion>brandon -&gt; Hora: 18:52:07</Descripcion>
+      </Lista>
+    </Egresos>
+  </ListaEgreso>
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso fecha="24/11/2020">
+    <Egresos>
+      <Lista>
+        <Monto>2500</Monto>
+        <Descripcion>ALMUERZO -&gt; Hora: 12:57:42</Descripcion>
+      </Lista>
+    </Egresos>
+  </ListaEgreso>
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso fecha="25/11/2020">
+    <Egresos>
+      <Lista>
+        <Monto>1150</Monto>
+        <Descripcion>tempisque -&gt; Hora: 14:36:32</Descripcion>
+      </Lista>
+      <Lista>
+        <Monto>2500</Monto>
+        <Descripcion>almuerzo -&gt; Hora: 14:36:42</Descripcion>
+      </Lista>
+    </Egresos>
+  </ListaEgreso>
+  <ListaEgreso fecha="26/11/2020">
+    <Egresos />
+  </ListaEgreso>
+  <ListaEgreso fecha="27/11/2020">
+    <Egresos />
+  </ListaEgreso>
+  <ListaEgreso />
+  <ListaEgreso fecha="28/11/2020">
+    <Egresos />
+  </ListaEgreso>
+  <ListaEgreso />
+  <ListaEgreso fecha="30/11/2020">
+    <Egresos />
+  </ListaEgreso>
+  <ListaEgreso fecha="01/12/2020">
+    <Egresos />
+  </ListaEgreso>
+  <ListaEgreso />
+  <ListaEgreso fecha="02/12/2020">
+    <Egresos />
+  </ListaEgreso>
+  <ListaEgreso />
+  <ListaEgreso fecha="03/12/2020">
+    <Egresos />
+  </ListaEgreso>
+  <ListaEgreso />
+  <ListaEgreso fecha="04/12/2020">
+    <Egresos />
+  </ListaEgreso>
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso fecha="05/12/2020">
+    <Egresos />
+  </ListaEgreso>
+  <ListaEgreso fecha="07/12/2020">
+    <Egresos />
+  </ListaEgreso>
+  <ListaEgreso />
+  <ListaEgreso fecha="08/12/2020">
+    <Egresos />
+  </ListaEgreso>
+  <ListaEgreso fecha="09/12/2020">
+    <Egresos />
+  </ListaEgreso>
+  <ListaEgreso />
+  <ListaEgreso fecha="10/12/2020">
+    <Egresos />
+  </ListaEgreso>
+  <ListaEgreso fecha="11/12/2020">
+    <Egresos />
+  </ListaEgreso>
+  <ListaEgreso fecha="12/12/2020">
+    <Egresos />
+  </ListaEgreso>
+  <ListaEgreso fecha="14/12/2020">
+    <Egresos />
+  </ListaEgreso>
+  <ListaEgreso fecha="15/12/2020">
+    <Egresos />
+  </ListaEgreso>
+  <ListaEgreso fecha="16/12/2020">
+    <Egresos />
+  </ListaEgreso>
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso fecha="17/12/2020">
+    <Egresos />
+  </ListaEgreso>
+  <ListaEgreso />
+  <ListaEgreso fecha="19/12/2020">
+    <Egresos />
+  </ListaEgreso>
+  <ListaEgreso fecha="18/12/2020">
+    <Egresos />
+  </ListaEgreso>
+  <ListaEgreso fecha="21/12/2020">
+    <Egresos />
+  </ListaEgreso>
+  <ListaEgreso fecha="01/08/2020">
+    <Egresos />
+  </ListaEgreso>
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso fecha="23/12/2020">
+    <Egresos />
+  </ListaEgreso>
+  <ListaEgreso fecha="24/12/2020">
+    <Egresos />
+  </ListaEgreso>
+  <ListaEgreso fecha="28/12/2020">
+    <Egresos />
+  </ListaEgreso>
+  <ListaEgreso fecha="29/12/2020">
+    <Egresos />
+  </ListaEgreso>
+  <ListaEgreso fecha="30/12/2020">
+    <Egresos />
+  </ListaEgreso>
+  <ListaEgreso fecha="31/12/2020">
+    <Egresos />
+  </ListaEgreso>
+  <ListaEgreso fecha="04/01/2021">
+    <Egresos />
+  </ListaEgreso>
+  <ListaEgreso fecha="05/01/2021">
+    <Egresos />
+  </ListaEgreso>
+  <ListaEgreso fecha="06/01/2021">
+    <Egresos />
+  </ListaEgreso>
+  <ListaEgreso fecha="07/01/2021">
+    <Egresos />
+  </ListaEgreso>
+  <ListaEgreso />
+  <ListaEgreso fecha="08/01/2021">
+    <Egresos />
+  </ListaEgreso>
+  <ListaEgreso fecha="09/01/2021">
+    <Egresos />
+  </ListaEgreso>
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso fecha="11/01/2021">
+    <Egresos>
+      <Lista>
+        <Monto>2500</Monto>
+        <Descripcion>comida  -&gt; Hora: 12:47:09</Descripcion>
+      </Lista>
+    </Egresos>
+  </ListaEgreso>
+  <ListaEgreso fecha="12/01/2021">
+    <Egresos />
+  </ListaEgreso>
+  <ListaEgreso />
+  <ListaEgreso fecha="13/01/2021">
+    <Egresos />
+  </ListaEgreso>
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso fecha="14/01/2021">
+    <Egresos>
+      <Lista>
+        <Monto>9050</Monto>
+        <Descripcion>tempisque -&gt; Hora: 12:14:01</Descripcion>
+      </Lista>
+      <Lista>
+        <Monto>2500</Monto>
+        <Descripcion>almuerzo -&gt; Hora: 12:18:41</Descripcion>
+      </Lista>
+    </Egresos>
+  </ListaEgreso>
+  <ListaEgreso fecha="15/01/2021">
+    <Egresos />
+  </ListaEgreso>
+  <ListaEgreso fecha="16/01/2021">
+    <Egresos />
+  </ListaEgreso>
+  <ListaEgreso fecha="18/01/2021">
+    <Egresos />
+  </ListaEgreso>
+  <ListaEgreso fecha="19/01/2021">
+    <Egresos />
+  </ListaEgreso>
+  <ListaEgreso fecha="20/01/2021">
+    <Egresos />
+  </ListaEgreso>
+  <ListaEgreso />
+  <ListaEgreso fecha="21/01/2021">
+    <Egresos />
+  </ListaEgreso>
+  <ListaEgreso fecha="22/01/2021">
+    <Egresos />
+  </ListaEgreso>
+  <ListaEgreso fecha="23/01/2021">
+    <Egresos />
+  </ListaEgreso>
+  <ListaEgreso />
+  <ListaEgreso fecha="25/01/2021">
+    <Egresos />
+  </ListaEgreso>
+  <ListaEgreso fecha="26/01/2021">
+    <Egresos />
+  </ListaEgreso>
+  <ListaEgreso fecha="27/01/2021">
+    <Egresos />
+  </ListaEgreso>
+  <ListaEgreso fecha="28/01/2021">
+    <Egresos />
+  </ListaEgreso>
+  <ListaEgreso fecha="29/01/2021">
+    <Egresos />
+  </ListaEgreso>
+  <ListaEgreso fecha="01/02/2021">
+    <Egresos />
+  </ListaEgreso>
+  <ListaEgreso fecha="03/02/2021">
+    <Egresos />
+  </ListaEgreso>
+  <ListaEgreso fecha="04/02/2021">
+    <Egresos />
+  </ListaEgreso>
+  <ListaEgreso />
+  <ListaEgreso fecha="05/02/2021">
+    <Egresos />
+  </ListaEgreso>
+  <ListaEgreso fecha="06/02/2021">
+    <Egresos />
+  </ListaEgreso>
+  <ListaEgreso fecha="08/02/2021">
+    <Egresos />
+  </ListaEgreso>
+  <ListaEgreso fecha="09/02/2021">
+    <Egresos />
+  </ListaEgreso>
+  <ListaEgreso fecha="10/02/2021">
+    <Egresos />
+  </ListaEgreso>
+  <ListaEgreso />
+  <ListaEgreso fecha="11/02/2021">
+    <Egresos />
+  </ListaEgreso>
+  <ListaEgreso fecha="12/02/2021">
+    <Egresos />
+  </ListaEgreso>
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso fecha="13/02/2021">
+    <Egresos />
+  </ListaEgreso>
+  <ListaEgreso fecha="15/02/2021">
+    <Egresos />
+  </ListaEgreso>
+  <ListaEgreso fecha="16/02/2021">
+    <Egresos />
+  </ListaEgreso>
+  <ListaEgreso fecha="17/02/2021">
+    <Egresos />
+  </ListaEgreso>
+  <ListaEgreso fecha="18/02/2021">
+    <Egresos />
+  </ListaEgreso>
+  <ListaEgreso />
+  <ListaEgreso fecha="19/02/2021">
+    <Egresos />
+  </ListaEgreso>
+  <ListaEgreso fecha="20/02/2021">
+    <Egresos />
+  </ListaEgreso>
+  <ListaEgreso fecha="22/02/2021">
+    <Egresos />
+  </ListaEgreso>
+  <ListaEgreso fecha="23/02/2021">
+    <Egresos />
+  </ListaEgreso>
+  <ListaEgreso fecha="24/02/2021">
+    <Egresos />
+  </ListaEgreso>
+  <ListaEgreso />
+  <ListaEgreso fecha="25/02/2021">
+    <Egresos />
+  </ListaEgreso>
+  <ListaEgreso fecha="26/02/2021">
+    <Egresos />
+  </ListaEgreso>
+  <ListaEgreso fecha="27/02/2021">
+    <Egresos />
+  </ListaEgreso>
+  <ListaEgreso fecha="01/03/2021">
+    <Egresos />
+  </ListaEgreso>
+  <ListaEgreso fecha="02/03/2021">
+    <Egresos />
+  </ListaEgreso>
+  <ListaEgreso />
+  <ListaEgreso fecha="03/03/2021">
+    <Egresos />
+  </ListaEgreso>
+  <ListaEgreso fecha="04/03/2021">
+    <Egresos />
+  </ListaEgreso>
+  <ListaEgreso fecha="06/03/2021">
+    <Egresos />
+  </ListaEgreso>
+  <ListaEgreso fecha="08/03/2021">
+    <Egresos />
+  </ListaEgreso>
+  <ListaEgreso fecha="09/03/2021">
+    <Egresos />
+  </ListaEgreso>
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso fecha="10/03/2021">
+    <Egresos>
+      <Lista>
+        <Monto>2000</Monto>
+        <Descripcion>jabon -&gt; Hora: 19:41:41</Descripcion>
+      </Lista>
+    </Egresos>
+  </ListaEgreso>
+  <ListaEgreso fecha="11/03/2021">
+    <Egresos />
+  </ListaEgreso>
+  <ListaEgreso />
+  <ListaEgreso fecha="13/03/2021">
+    <Egresos />
+  </ListaEgreso>
+  <ListaEgreso />
+  <ListaEgreso fecha="15/03/2021">
+    <Egresos />
+  </ListaEgreso>
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso fecha="16/03/2021">
+    <Egresos />
+  </ListaEgreso>
+  <ListaEgreso fecha="17/03/2021">
+    <Egresos />
+  </ListaEgreso>
+  <ListaEgreso fecha="18/03/2021">
+    <Egresos />
+  </ListaEgreso>
+  <ListaEgreso />
+  <ListaEgreso fecha="19/03/2021">
+    <Egresos />
+  </ListaEgreso>
+  <ListaEgreso fecha="20/03/2021">
+    <Egresos />
+  </ListaEgreso>
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso fecha="24/03/2021">
+    <Egresos />
+  </ListaEgreso>
+  <ListaEgreso fecha="25/03/2021">
+    <Egresos />
+  </ListaEgreso>
+  <ListaEgreso />
+  <ListaEgreso fecha="26/03/2021">
+    <Egresos />
+  </ListaEgreso>
+  <ListaEgreso fecha="27/03/2021">
+    <Egresos />
+  </ListaEgreso>
+  <ListaEgreso fecha="29/03/2021">
+    <Egresos />
+  </ListaEgreso>
+  <ListaEgreso fecha="30/03/2021">
+    <Egresos />
+  </ListaEgreso>
+  <ListaEgreso fecha="31/03/2021">
+    <Egresos />
+  </ListaEgreso>
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso fecha="03/04/2021">
+    <Egresos />
+  </ListaEgreso>
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso fecha="05/04/2021">
+    <Egresos />
+  </ListaEgreso>
+  <ListaEgreso fecha="06/04/2021">
+    <Egresos />
+  </ListaEgreso>
+  <ListaEgreso fecha="07/04/2021">
+    <Egresos />
+  </ListaEgreso>
+  <ListaEgreso fecha="08/04/2021">
+    <Egresos />
+  </ListaEgreso>
+  <ListaEgreso fecha="09/04/2021">
+    <Egresos />
+  </ListaEgreso>
+  <ListaEgreso fecha="10/04/2021">
+    <Egresos />
+  </ListaEgreso>
+  <ListaEgreso />
+  <ListaEgreso fecha="12/04/2021">
+    <Egresos />
+  </ListaEgreso>
+  <ListaEgreso fecha="13/04/2021">
+    <Egresos />
+  </ListaEgreso>
+  <ListaEgreso />
+  <ListaEgreso fecha="14/04/2021">
+    <Egresos />
+  </ListaEgreso>
+  <ListaEgreso fecha="15/04/2021">
+    <Egresos />
+  </ListaEgreso>
+  <ListaEgreso fecha="16/04/2021">
+    <Egresos />
+  </ListaEgreso>
+  <ListaEgreso fecha="17/04/2021">
+    <Egresos />
+  </ListaEgreso>
+  <ListaEgreso fecha="19/04/2021">
+    <Egresos />
+  </ListaEgreso>
+  <ListaEgreso />
+  <ListaEgreso fecha="20/04/2021">
+    <Egresos />
+  </ListaEgreso>
+  <ListaEgreso />
+  <ListaEgreso fecha="21/04/2021">
+    <Egresos />
+  </ListaEgreso>
+  <ListaEgreso fecha="22/04/2021">
+    <Egresos />
+  </ListaEgreso>
+  <ListaEgreso fecha="23/04/2021">
+    <Egresos />
+  </ListaEgreso>
+  <ListaEgreso fecha="5/8/2021">
+    <Egresos />
+  </ListaEgreso>
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso fecha="08/05/2021">
+    <Egresos />
+  </ListaEgreso>
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso fecha="09/05/2021">
+    <Egresos />
+  </ListaEgreso>
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso fecha="10/05/2021">
+    <Egresos />
+  </ListaEgreso>
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso />
+  <ListaEgreso fecha="5/22/2021">
+    <Egresos />
+  </ListaEgreso>
+  <ListaEgreso />
+  <ListaEgreso fecha="5/26/2021">
+    <Egresos />
+  </ListaEgreso>
+  <ListaEgreso fecha="5/29/2021">
+    <Egresos />
+  </ListaEgreso>
+</ListaEgreso>

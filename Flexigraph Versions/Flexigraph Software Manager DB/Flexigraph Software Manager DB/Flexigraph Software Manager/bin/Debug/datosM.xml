@@ -1,0 +1,387 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Materiales>
+  <Material>
+    <Nombre>Lona</Nombre>
+    <Precio>18</Precio>
+  </Material>
+  <Material>
+    <Nombre>Adhesivo</Nombre>
+    <Precio>22</Precio>
+  </Material>
+  <Material>
+    <Nombre>Adhesivo-Laminado</Nombre>
+    <Precio>26</Precio>
+  </Material>
+  <Material>
+    <Nombre>Sandblasting</Nombre>
+    <Precio>25</Precio>
+  </Material>
+  <Material>
+    <Nombre>Lona-Mesh</Nombre>
+    <Precio>25</Precio>
+  </Material>
+  <Material>
+    <Nombre>Lona-Traslúcida</Nombre>
+    <Precio>26</Precio>
+  </Material>
+  <Material>
+    <Nombre>Static-Film</Nombre>
+    <Precio>25</Precio>
+  </Material>
+  <Material>
+    <Nombre>Microperforado</Nombre>
+    <Precio>28</Precio>
+  </Material>
+  <Material>
+    <Nombre>Papel-Sintético</Nombre>
+    <Precio>25</Precio>
+  </Material>
+  <Material>
+    <Nombre>Papel-Sintético-Laminado</Nombre>
+    <Precio>25</Precio>
+  </Material>
+  <Material>
+    <Nombre>Laminación</Nombre>
+    <Precio>18</Precio>
+  </Material>
+  <Material>
+    <Nombre>Poliestireno</Nombre>
+    <Precio>25</Precio>
+  </Material>
+  <Material>
+    <Nombre>PEP PVC</Nombre>
+    <Precio>0</Precio>
+  </Material>
+  <Material>
+    <Nombre>PEP PVC Transp</Nombre>
+    <Precio>0</Precio>
+  </Material>
+  <Material>
+    <Nombre>PL Bussiness Card</Nombre>
+    <Precio>0</Precio>
+  </Material>
+  <Material>
+    <Nombre>PL Volantes</Nombre>
+    <Precio>0</Precio>
+  </Material>
+  <Material>
+    <Nombre>Reflectivo</Nombre>
+    <Precio>40</Precio>
+  </Material>
+  <Material>
+    <Nombre>Lona Coope</Nombre>
+    <Precio>11</Precio>
+  </Material>
+  <Material>
+    <Nombre>Sticker Laminado Precorte</Nombre>
+    <Precio>36</Precio>
+  </Material>
+  <Material>
+    <Nombre>Sticker con Precorte</Nombre>
+    <Precio>25</Precio>
+  </Material>
+  <Material>
+    <Nombre>Lona Mario Gutierrez</Nombre>
+    <Precio>11</Precio>
+  </Material>
+  <Material>
+    <Nombre>Adhesivo$13</Nombre>
+    <Precio>13</Precio>
+  </Material>
+  <Material>
+    <Nombre>PL Mini Banner</Nombre>
+    <Precio>0</Precio>
+  </Material>
+  <Material>
+    <Nombre>PL carta couche 300 g</Nombre>
+    <Precio>0</Precio>
+  </Material>
+  <Material>
+    <Nombre>PL carta bond 20</Nombre>
+    <Precio>0</Precio>
+  </Material>
+  <Material>
+    <Nombre>LAM laminante duro brillante carta</Nombre>
+    <Precio>500</Precio>
+  </Material>
+  <Material>
+    <Nombre>LAM laminante duro billante 11x17</Nombre>
+    <Precio>1000</Precio>
+  </Material>
+  <Material>
+    <Nombre>LAM laminante duro mate carta</Nombre>
+    <Precio>600</Precio>
+  </Material>
+  <Material>
+    <Nombre>LAM laminate duro mate 11x17</Nombre>
+    <Precio>1200</Precio>
+  </Material>
+  <Material>
+    <Nombre>LAM laminate suave A4</Nombre>
+    <Precio>400</Precio>
+  </Material>
+  <Material>
+    <Nombre>LAM laminate suave carta</Nombre>
+    <Precio>400</Precio>
+  </Material>
+  <Material>
+    <Nombre>LAM laminate suave 11x17</Nombre>
+    <Precio>800</Precio>
+  </Material>
+  <Material>
+    <Nombre>LAM laminate suave minibanner</Nombre>
+    <Precio>1600</Precio>
+  </Material>
+  <Material>
+    <Nombre>PL A4 300 g</Nombre>
+    <Precio>0</Precio>
+  </Material>
+  <Material>
+    <Nombre>PL A4 ½ 300 g</Nombre>
+    <Precio>0</Precio>
+  </Material>
+  <Material>
+    <Nombre>PL A4 ¼ 300 g</Nombre>
+    <Precio>0</Precio>
+  </Material>
+  <Material>
+    <Nombre>PL Carta ½ 300 g</Nombre>
+    <Precio>0</Precio>
+  </Material>
+  <Material>
+    <Nombre>PL Carta ¼ 300 g</Nombre>
+    <Precio>0</Precio>
+  </Material>
+  <Material>
+    <Nombre>PL Carta 8,5"x11" 300 g</Nombre>
+    <Precio>0</Precio>
+  </Material>
+  <Material>
+    <Nombre>Tela Poliester</Nombre>
+    <Precio>25</Precio>
+  </Material>
+  <Material>
+    <Nombre>Adhesivo Mario Vendedor</Nombre>
+    <Precio>15</Precio>
+  </Material>
+  <Material>
+    <Nombre>lona c</Nombre>
+    <Precio>13</Precio>
+  </Material>
+  <Material>
+    <Nombre>Lona+sin acavados Vendedor 13</Nombre>
+    <Precio>13</Precio>
+  </Material>
+  <Material>
+    <Nombre>micro</Nombre>
+    <Precio>25</Precio>
+  </Material>
+  <Material>
+    <Nombre>Laminante</Nombre>
+    <Precio>10</Precio>
+  </Material>
+  <Material>
+    <Nombre>Adhesivo 14</Nombre>
+    <Precio>14</Precio>
+  </Material>
+  <Material>
+    <Nombre>lona 2</Nombre>
+    <Precio>2</Precio>
+  </Material>
+  <Material>
+    <Nombre>PL Tabloide 11 x 17</Nombre>
+    <Precio>0</Precio>
+  </Material>
+  <Material>
+    <Nombre>PL Arch B 12 x 18</Nombre>
+    <Precio>0</Precio>
+  </Material>
+  <Material>
+    <Nombre>PEP Gris Plata 3,5 a 8,0</Nombre>
+    <Precio>0</Precio>
+  </Material>
+  <Material>
+    <Nombre>PEP Verde Fluor 3.5 a 8.0</Nombre>
+    <Precio>0</Precio>
+  </Material>
+  <Material>
+    <Nombre>PEP Negro 1,8 a 8,0</Nombre>
+    <Precio>0</Precio>
+  </Material>
+  <Material>
+    <Nombre>Reflectivo 3M Laminado</Nombre>
+    <Precio>46</Precio>
+  </Material>
+  <Material>
+    <Nombre>Adhesivo Blackout</Nombre>
+    <Precio>20</Precio>
+  </Material>
+  <Material>
+    <Nombre>Lona Oferta</Nombre>
+    <Precio>15</Precio>
+  </Material>
+  <Material>
+    <Nombre>PEP Blanco 1,8 a 8,0</Nombre>
+    <Precio>0</Precio>
+  </Material>
+  <Material>
+    <Nombre>PEP Rojo 1,8 a 8,0</Nombre>
+    <Precio>0</Precio>
+  </Material>
+  <Material>
+    <Nombre>PEP Azul 1,8 a 8,0</Nombre>
+    <Precio>0</Precio>
+  </Material>
+  <Material>
+    <Nombre>PEP Celeste 1,8 a 8,0</Nombre>
+    <Precio>0</Precio>
+  </Material>
+  <Material>
+    <Nombre>PEP Verde Lima 1,8 a 8,0</Nombre>
+    <Precio>0</Precio>
+  </Material>
+  <Material>
+    <Nombre>PEP Amarillo 1,8 a 8,0</Nombre>
+    <Precio>0</Precio>
+  </Material>
+  <Material>
+    <Nombre>PEP Naranja 1,8 a 8,0</Nombre>
+    <Precio>0</Precio>
+  </Material>
+  <Material>
+    <Nombre>PEP CORROPLAST BLANCO</Nombre>
+    <Precio>0</Precio>
+  </Material>
+  <Material>
+    <Nombre>Lona Normal Rotulista</Nombre>
+    <Precio>13</Precio>
+  </Material>
+  <Material>
+    <Nombre>Adhesivo lam</Nombre>
+    <Precio>13</Precio>
+  </Material>
+  <Material>
+    <Nombre>Adhesivo Etiqueta Cantidad</Nombre>
+    <Precio>15</Precio>
+  </Material>
+  <Material>
+    <Nombre>Adhesivo Olivia</Nombre>
+    <Precio>15</Precio>
+  </Material>
+  <Material>
+    <Nombre>Adhesivo Laminado Olivia 20</Nombre>
+    <Precio>20</Precio>
+  </Material>
+  <Material>
+    <Nombre>Lona Augusto Liceo Villarreal 15</Nombre>
+    <Precio>15</Precio>
+  </Material>
+  <Material>
+    <Nombre>Lona Coopeguanacste 15</Nombre>
+    <Precio>15</Precio>
+  </Material>
+  <Material>
+    <Nombre>Adhesivo laminado olivia</Nombre>
+    <Precio>23</Precio>
+  </Material>
+  <Material>
+    <Nombre>Lona $18</Nombre>
+    <Precio>18</Precio>
+  </Material>
+  <Material>
+    <Nombre>adhesivo para rotulista</Nombre>
+    <Precio>16</Precio>
+  </Material>
+  <Material>
+    <Nombre>adhesivo precio rotulista</Nombre>
+    <Precio>16</Precio>
+  </Material>
+  <Material>
+    <Nombre>lona ceviche porteño</Nombre>
+    <Precio>17</Precio>
+  </Material>
+  <Material>
+    <Nombre>Adhesivo 3M IJ35C laminado 8048C</Nombre>
+    <Precio>50</Precio>
+  </Material>
+  <Material>
+    <Nombre>Adhesivo 3M IJ35C laminado 8048C</Nombre>
+    <Precio>50</Precio>
+  </Material>
+  <Material>
+    <Nombre>Lona Hoy</Nombre>
+    <Precio>16</Precio>
+  </Material>
+  <Material>
+    <Nombre>Acetato pizarra</Nombre>
+    <Precio>36</Precio>
+  </Material>
+  <Material>
+    <Nombre>Magnético 30mm 31cm</Nombre>
+    <Precio>31</Precio>
+  </Material>
+  <Material>
+    <Nombre>Magnético 30mm 62cm</Nombre>
+    <Precio>62</Precio>
+  </Material>
+  <Material>
+    <Nombre>#26 Zinc Liso 11cm</Nombre>
+    <Precio>11</Precio>
+  </Material>
+  <Material>
+    <Nombre>#26 Zinc Liso 21cm</Nombre>
+    <Precio>21</Precio>
+  </Material>
+  <Material>
+    <Nombre>#26 Zinc Liso 31cm</Nombre>
+    <Precio>31</Precio>
+  </Material>
+  <Material>
+    <Nombre>#26 Zinc Liso 41cm</Nombre>
+    <Precio>41</Precio>
+  </Material>
+  <Material>
+    <Nombre>#26 Zinc Liso 51cm</Nombre>
+    <Precio>51</Precio>
+  </Material>
+  <Material>
+    <Nombre>#26 Zinc Liso 61cm</Nombre>
+    <Precio>61</Precio>
+  </Material>
+  <Material>
+    <Nombre>#26 Zinc Liso 71cm</Nombre>
+    <Precio>71</Precio>
+  </Material>
+  <Material>
+    <Nombre>#26 Zinc Liso 81cm</Nombre>
+    <Precio>81</Precio>
+  </Material>
+  <Material>
+    <Nombre>#26 Zinc Liso 91cm</Nombre>
+    <Precio>91</Precio>
+  </Material>
+  <Material>
+    <Nombre>#26 Zinc Liso 101cm</Nombre>
+    <Precio>101</Precio>
+  </Material>
+  <Material>
+    <Nombre>#26 Zinc Liso 111cm</Nombre>
+    <Precio>111</Precio>
+  </Material>
+  <Material>
+    <Nombre>#26 Zinc Liso 122cm</Nombre>
+    <Precio>122</Precio>
+  </Material>
+  <Material>
+    <Nombre>PEP ACRILICO 3 mm</Nombre>
+    <Precio>0</Precio>
+  </Material>
+  <Material>
+    <Nombre>PEP ACRILICO 4 mm</Nombre>
+    <Precio>0</Precio>
+  </Material>
+  <Material>
+    <Nombre>Lona $15 m²</Nombre>
+    <Precio>15</Precio>
+  </Material>
+</Materiales>

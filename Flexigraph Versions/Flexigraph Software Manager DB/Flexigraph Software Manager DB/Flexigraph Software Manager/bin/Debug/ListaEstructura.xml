@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ListaEstructura>
+  <Lista>
+    <Cantidad>1</Cantidad>
+    <Descripción>Tubo Cudrado 1'' x 1'' Gal</Descripción>
+    <Precio>7000</Precio>
+    <Imagen>C:\Users\Kosu\Pictures\AC_AISI_Tubo_Cuadrado.png</Imagen>
+  </Lista>
+  <Lista>
+    <Cantidad>4</Cantidad>
+    <Descripción>Soldadura por cada ángulo</Descripción>
+    <Precio>2000</Precio>
+    <Imagen>C:\Users\Kosu\Pictures\TECNICO-EXPERTO-EN-TECNICAS-DE-SOLDADURA-TECNICO-DE-MECANIZADO.jpg</Imagen>
+  </Lista>
+  <Lista>
+    <Cantidad>1</Cantidad>
+    <Descripción>Disco Cortado</Descripción>
+    <Precio>3500</Precio>
+    <Imagen>C:\Users\Kosu\Pictures\disco esmeril.jpg</Imagen>
+  </Lista>
+  <Lista>
+    <Cantidad>1</Cantidad>
+    <Descripción>Disco Esmeril</Descripción>
+    <Precio>3500</Precio>
+    <Imagen>C:\Users\Kosu\Pictures\Disco Esmerilar.jpg</Imagen>
+  </Lista>
+  <Lista>
+    <Cantidad>0</Cantidad>
+    <Descripción>Flux Core Welder</Descripción>
+    <Precio>3500</Precio>
+    <Imagen>C:\Users\Kosu\Pictures\forney-welding-wire-42296-64_1000.jpg</Imagen>
+  </Lista>
+  <Lista>
+    <Cantidad>0</Cantidad>
+    <Descripción>Spray</Descripción>
+    <Precio>3500</Precio>
+    <Imagen>C:\Users\Kosu\Pictures\Spay.jpg</Imagen>
+  </Lista>
+  <Lista>
+    <Cantidad>1</Cantidad>
+    <Descripción>Tubo Cuadrado 2'' x 1''</Descripción>
+    <Precio>9000</Precio>
+    <Imagen>C:\Users\Kosu\Pictures\tubo de 2 x 1.jpg</Imagen>
+  </Lista>
+  <Lista>
+    <Cantidad>0</Cantidad>
+    <Descripción>T5 Led Florecentes</Descripción>
+    <Precio>9000</Precio>
+    <Imagen>C:\Users\Kosu\Pictures\T5 Led Florecentes.jpg</Imagen>
+  </Lista>
+  <Lista>
+    <Cantidad>10</Cantidad>
+    <Descripción>tornillo torlak</Descripción>
+    <Precio>50</Precio>
+    <Imagen>C:\Users\Kosu\Pictures\parafuso-para-drywall-flangelado-ponta-broca-fenda-phillips-bemfixa-570x460.jpg</Imagen>
+  </Lista>
+  <Lista>
+    <Cantidad>0</Cantidad>
+    <Descripción>perforadora-con-motor-a-gasolina-barreno-de-6pul-x-31largo</Descripción>
+    <Precio>5000</Precio>
+    <Imagen>C:\Users\Kosu\Pictures\perforadora-con-motor-a-gasolina-barreno-de-6pul-x-31largo-D_NQ_NP_840955-MLM31233579340_062019-Q.jpg</Imagen>
+  </Lista>
+  <Lista>
+    <Cantidad>0</Cantidad>
+    <Descripción>14 Tornillo Torlak o K-Lat ½ X 8 FRIJOL rotulo completo</Descripción>
+    <Precio>5000</Precio>
+    <Imagen>C:\Users\Kosu\Pictures\14 Tornillo Torlak o K-Lat ½ X 8 FRIJOL rotulo completo.jpg</Imagen>
+  </Lista>
+  <Lista>
+    <Cantidad>0</Cantidad>
+    <Descripción>14 Tornillo Torlak o K-Lat ½ X 8 FRIJOL</Descripción>
+    <Precio>5000</Precio>
+    <Imagen>C:\Users\Kosu\Pictures\14 Tornillo Torlak o K-Lat ½ X 8 FRIJOL.jpg</Imagen>
+  </Lista>
+</ListaEstructura>

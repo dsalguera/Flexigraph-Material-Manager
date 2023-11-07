@@ -1,0 +1,132 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Papeleria>
+  <Hoja>
+    <Nombre>Carta - Grueso (1)</Nombre>
+    <Base>8.5</Base>
+    <Altura>11</Altura>
+    <Precio>200</Precio>
+    <Medida>pulg</Medida>
+  </Hoja>
+  <Hoja>
+    <Nombre>Carta - Grueso (2)</Nombre>
+    <Base>8.5</Base>
+    <Altura>11</Altura>
+    <Precio>200</Precio>
+    <Medida>pulg</Medida>
+  </Hoja>
+  <Hoja>
+    <Nombre>Carta - Grueso (3)</Nombre>
+    <Base>8.5</Base>
+    <Altura>11</Altura>
+    <Precio>300</Precio>
+    <Medida>pulg</Medida>
+  </Hoja>
+  <Hoja>
+    <Nombre>Carta - Grueso (4)</Nombre>
+    <Base>8.5</Base>
+    <Altura>11</Altura>
+    <Precio>350</Precio>
+    <Medida>pulg</Medida>
+  </Hoja>
+  <!-- 
+	Segundo tamaño
+	Cambiado a pulgadas
+  -->
+  <Hoja>
+    <Nombre>A4 - Grueso (1)</Nombre>
+    <Base>8.26</Base>
+    <Altura>11.69</Altura>
+    <Precio>100</Precio>
+    <Medida>cm</Medida>
+  </Hoja>
+  <Hoja>
+    <Nombre>A4 - Grueso (2)</Nombre>
+    <Base>8.26</Base>
+    <Altura>11.69</Altura>
+    <Precio>200</Precio>
+    <Medida>cm</Medida>
+  </Hoja>
+  <Hoja>
+    <Nombre>A4 - Grueso (3)</Nombre>
+    <Base>8.26</Base>
+    <Altura>11.69</Altura>
+    <Precio>300</Precio>
+    <Medida>cm</Medida>
+  </Hoja>
+  <Hoja>
+    <Nombre>A4 - Grueso (4)</Nombre>
+    <Base>8.26</Base>
+    <Altura>11.69</Altura>
+    <Precio>350</Precio>
+    <Medida>cm</Medida>
+  </Hoja>
+  <!-- 
+	Segundo tamaño
+  -->
+  <Hoja>
+    <Nombre>Tabloide - Grueso (1)</Nombre>
+    <Base>11</Base>
+    <Altura>17</Altura>
+    <Precio>350</Precio>
+    <Medida>pulg</Medida>
+  </Hoja>
+  <Hoja>
+    <Nombre>Tabloide - Grueso (2)</Nombre>
+    <Base>11</Base>
+    <Altura>17</Altura>
+    <Precio>350</Precio>
+    <Medida>pulg</Medida>
+  </Hoja>
+  <Hoja>
+    <Nombre>Tabloide - Grueso (3)</Nombre>
+    <Base>11</Base>
+    <Altura>17</Altura>
+    <Precio>350</Precio>
+    <Medida>pulg</Medida>
+  </Hoja>
+  <Hoja>
+    <Nombre>Tabloide - Grueso (4)</Nombre>
+    <Base>11</Base>
+    <Altura>17</Altura>
+    <Precio>500</Precio>
+    <Medida>pulg</Medida>
+  </Hoja>
+  <!-- 
+  Segundo tamaño
+  -->
+  <Hoja>
+    <Nombre>Arch B - Grueso (1)</Nombre>
+    <Base>12</Base>
+    <Altura>18</Altura>
+    <Precio>200</Precio>
+    <Medida>pulg</Medida>
+  </Hoja>
+  <Hoja>
+    <Nombre>Arch B - Grueso (2)</Nombre>
+    <Base>12</Base>
+    <Altura>18</Altura>
+    <Precio>350</Precio>
+    <Medida>pulg</Medida>
+  </Hoja>
+  <Hoja>
+    <Nombre>Arch B - Grueso (3)</Nombre>
+    <Base>12</Base>
+    <Altura>18</Altura>
+    <Precio>350</Precio>
+    <Medida>pulg</Medida>
+  </Hoja>
+  <Hoja>
+    <Nombre>Arch B - Grueso (4)</Nombre>
+    <Base>12</Base>
+    <Altura>18</Altura>
+    <Precio>500</Precio>
+    <Medida>pulg</Medida>
+  </Hoja>
+  <Hoja>
+    <Nombre>Mini-Banner - Grueso (4)</Nombre>
+    <Base>12</Base>
+    <Altura>47</Altura>
+    <Precio>1000</Precio>
+    <Medida>pulg</Medida>
+  </Hoja>
+</Papeleria>

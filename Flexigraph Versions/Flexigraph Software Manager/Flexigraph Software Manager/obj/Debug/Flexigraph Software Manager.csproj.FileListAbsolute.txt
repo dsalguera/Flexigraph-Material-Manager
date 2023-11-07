@@ -1,0 +1,65 @@
+C:\Users\David Salguera\source\repos\Flexigraph Software Manager\Flexigraph Software Manager\bin\Debug\Flexigraph Software Manager.exe.config
+C:\Users\David Salguera\source\repos\Flexigraph Software Manager\Flexigraph Software Manager\bin\Debug\Flexigraph Software Manager.exe
+C:\Users\David Salguera\source\repos\Flexigraph Software Manager\Flexigraph Software Manager\bin\Debug\Flexigraph Software Manager.pdb
+C:\Users\David Salguera\source\repos\Flexigraph Software Manager\Flexigraph Software Manager\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\David Salguera\source\repos\Flexigraph Software Manager\Flexigraph Software Manager\obj\Debug\Flexigraph_Software_Manager.Ajustes.resources
+C:\Users\David Salguera\source\repos\Flexigraph Software Manager\Flexigraph Software Manager\obj\Debug\Flexigraph_Software_Manager.Form1.resources
+C:\Users\David Salguera\source\repos\Flexigraph Software Manager\Flexigraph Software Manager\obj\Debug\Flexigraph_Software_Manager.Properties.Resources.resources
+C:\Users\David Salguera\source\repos\Flexigraph Software Manager\Flexigraph Software Manager\obj\Debug\Flexigraph Software Manager.csproj.GenerateResource.cache
+C:\Users\David Salguera\source\repos\Flexigraph Software Manager\Flexigraph Software Manager\obj\Debug\Flexigraph Software Manager.csproj.CoreCompileInputs.cache
+C:\Users\David Salguera\source\repos\Flexigraph Software Manager\Flexigraph Software Manager\obj\Debug\Flexigraph Software Manager.csproj.CopyComplete
+C:\Users\David Salguera\source\repos\Flexigraph Software Manager\Flexigraph Software Manager\obj\Debug\Flexigraph Software Manager.exe
+C:\Users\David Salguera\source\repos\Flexigraph Software Manager\Flexigraph Software Manager\obj\Debug\Flexigraph Software Manager.pdb
+C:\Users\David Salguera\source\repos\Flexigraph Software Manager\Flexigraph Software Manager\obj\Debug\Flexigraph Software Manager.csprojAssemblyReference.cache
+C:\Users\David\Documents\Flexigraph Software Manager\Flexigraph Software Manager\bin\Debug\Flexigraph Software Manager.exe.config
+C:\Users\David\Documents\Flexigraph Software Manager\Flexigraph Software Manager\bin\Debug\Flexigraph Software Manager.exe
+C:\Users\David\Documents\Flexigraph Software Manager\Flexigraph Software Manager\bin\Debug\Flexigraph Software Manager.pdb
+C:\Users\David\Documents\Flexigraph Software Manager\Flexigraph Software Manager\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\David\Documents\Flexigraph Software Manager\Flexigraph Software Manager\obj\Debug\Flexigraph_Software_Manager.Ajustes.resources
+C:\Users\David\Documents\Flexigraph Software Manager\Flexigraph Software Manager\obj\Debug\Flexigraph_Software_Manager.Form1.resources
+C:\Users\David\Documents\Flexigraph Software Manager\Flexigraph Software Manager\obj\Debug\Flexigraph_Software_Manager.Properties.Resources.resources
+C:\Users\David\Documents\Flexigraph Software Manager\Flexigraph Software Manager\obj\Debug\Flexigraph Software Manager.csproj.GenerateResource.cache
+C:\Users\David\Documents\Flexigraph Software Manager\Flexigraph Software Manager\obj\Debug\Flexigraph Software Manager.csproj.CoreCompileInputs.cache
+C:\Users\David\Documents\Flexigraph Software Manager\Flexigraph Software Manager\obj\Debug\Flexigraph Software Manager.csproj.CopyComplete
+C:\Users\David\Documents\Flexigraph Software Manager\Flexigraph Software Manager\obj\Debug\Flexigraph Software Manager.exe
+C:\Users\David\Documents\Flexigraph Software Manager\Flexigraph Software Manager\obj\Debug\Flexigraph Software Manager.pdb
+C:\Users\David\Documents\Flexigraph Software Manager\Flexigraph Software Manager\obj\Debug\Flexigraph Software Manager.csprojAssemblyReference.cache
+C:\Users\David\Desktop\Escritorio 2018\Flexigraph Software Manager\Flexigraph Software Manager\bin\Debug\Flexigraph Software Manager.exe.config
+C:\Users\David\Desktop\Escritorio 2018\Flexigraph Software Manager\Flexigraph Software Manager\bin\Debug\Flexigraph Software Manager.exe
+C:\Users\David\Desktop\Escritorio 2018\Flexigraph Software Manager\Flexigraph Software Manager\bin\Debug\Flexigraph Software Manager.pdb
+C:\Users\David\Desktop\Escritorio 2018\Flexigraph Software Manager\Flexigraph Software Manager\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\David\Desktop\Escritorio 2018\Flexigraph Software Manager\Flexigraph Software Manager\obj\Debug\Flexigraph_Software_Manager.Ajustes.resources
+C:\Users\David\Desktop\Escritorio 2018\Flexigraph Software Manager\Flexigraph Software Manager\obj\Debug\Flexigraph_Software_Manager.Form1.resources
+C:\Users\David\Desktop\Escritorio 2018\Flexigraph Software Manager\Flexigraph Software Manager\obj\Debug\Flexigraph_Software_Manager.Form2.resources
+C:\Users\David\Desktop\Escritorio 2018\Flexigraph Software Manager\Flexigraph Software Manager\obj\Debug\Flexigraph_Software_Manager.Properties.Resources.resources
+C:\Users\David\Desktop\Escritorio 2018\Flexigraph Software Manager\Flexigraph Software Manager\obj\Debug\Flexigraph Software Manager.csproj.GenerateResource.cache
+C:\Users\David\Desktop\Escritorio 2018\Flexigraph Software Manager\Flexigraph Software Manager\obj\Debug\Flexigraph Software Manager.csproj.CoreCompileInputs.cache
+C:\Users\David\Desktop\Escritorio 2018\Flexigraph Software Manager\Flexigraph Software Manager\obj\Debug\Flexigraph Software Manager.csproj.CopyComplete
+C:\Users\David\Desktop\Escritorio 2018\Flexigraph Software Manager\Flexigraph Software Manager\obj\Debug\Flexigraph Software Manager.exe
+C:\Users\David\Desktop\Escritorio 2018\Flexigraph Software Manager\Flexigraph Software Manager\obj\Debug\Flexigraph Software Manager.pdb
+C:\Users\David\Desktop\Escritorio 2018\Flexigraph Software Manager\Flexigraph Software Manager\obj\Debug\Flexigraph Software Manager.csprojAssemblyReference.cache
+C:\Users\David\Desktop\Escritorio 2018\Flexigraph Software Manager\Flexigraph Software Manager\bin\Debug\itextsharp.dll
+C:\Users\David\Desktop\Escritorio 2018\Flexigraph Software Manager\Flexigraph Software Manager\bin\Debug\itextsharp.xml
+C:\Users\David\Desktop\Escritorio 2018\Flexigraph Software Manager\Flexigraph Software Manager\bin\Debug\GemBox.Document.dll
+C:\Users\David\Desktop\Escritorio 2018\Flexigraph Software Manager\Flexigraph Software Manager\bin\Debug\Xceed.Document.NET.dll
+C:\Users\David\Desktop\Escritorio 2018\Flexigraph Software Manager\Flexigraph Software Manager\bin\Debug\Xceed.Words.NET.dll
+C:\Users\David\Desktop\Escritorio 2018\Flexigraph Software Manager\Flexigraph Software Manager\bin\Debug\GemBox.Document.xml
+C:\Users\David\Desktop\Flexigraph Software Manager\Flexigraph Software Manager\bin\Debug\Flexigraph Software Manager.exe.config
+C:\Users\David\Desktop\Flexigraph Software Manager\Flexigraph Software Manager\bin\Debug\Flexigraph Software Manager.exe
+C:\Users\David\Desktop\Flexigraph Software Manager\Flexigraph Software Manager\bin\Debug\Flexigraph Software Manager.pdb
+C:\Users\David\Desktop\Flexigraph Software Manager\Flexigraph Software Manager\bin\Debug\GemBox.Document.dll
+C:\Users\David\Desktop\Flexigraph Software Manager\Flexigraph Software Manager\bin\Debug\itextsharp.dll
+C:\Users\David\Desktop\Flexigraph Software Manager\Flexigraph Software Manager\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\David\Desktop\Flexigraph Software Manager\Flexigraph Software Manager\bin\Debug\Xceed.Document.NET.dll
+C:\Users\David\Desktop\Flexigraph Software Manager\Flexigraph Software Manager\bin\Debug\Xceed.Words.NET.dll
+C:\Users\David\Desktop\Flexigraph Software Manager\Flexigraph Software Manager\bin\Debug\GemBox.Document.xml
+C:\Users\David\Desktop\Flexigraph Software Manager\Flexigraph Software Manager\bin\Debug\itextsharp.xml
+C:\Users\David\Desktop\Flexigraph Software Manager\Flexigraph Software Manager\obj\Debug\Flexigraph_Software_Manager.Ajustes.resources
+C:\Users\David\Desktop\Flexigraph Software Manager\Flexigraph Software Manager\obj\Debug\Flexigraph_Software_Manager.Form1.resources
+C:\Users\David\Desktop\Flexigraph Software Manager\Flexigraph Software Manager\obj\Debug\Flexigraph_Software_Manager.Form2.resources
+C:\Users\David\Desktop\Flexigraph Software Manager\Flexigraph Software Manager\obj\Debug\Flexigraph_Software_Manager.Properties.Resources.resources
+C:\Users\David\Desktop\Flexigraph Software Manager\Flexigraph Software Manager\obj\Debug\Flexigraph Software Manager.csproj.GenerateResource.cache
+C:\Users\David\Desktop\Flexigraph Software Manager\Flexigraph Software Manager\obj\Debug\Flexigraph Software Manager.csproj.CoreCompileInputs.cache
+C:\Users\David\Desktop\Flexigraph Software Manager\Flexigraph Software Manager\obj\Debug\Flexigraph Software Manager.csproj.CopyComplete
+C:\Users\David\Desktop\Flexigraph Software Manager\Flexigraph Software Manager\obj\Debug\Flexigraph Software Manager.exe
+C:\Users\David\Desktop\Flexigraph Software Manager\Flexigraph Software Manager\obj\Debug\Flexigraph Software Manager.pdb
